@@ -1,0 +1,105 @@
+---
+layout: default
+title: Home
+contact-form: true
+---
+
+  <section id="about">
+    <div class="border padding-top grid">
+      <h2 class="col-12">About Me</h2>
+      <div class="col-7_sm-12">
+      </div>
+      <div class="col-5_sm-12">
+      <p>
+        This is a litte about me and where I write a little blurb about me. To find out more you will need to click on the read more button. </p>
+        <p>
+
+        This is a litte about me and where I write a little blurb about me. To find out more you will need to click on the read more button. </p>
+        <p>
+        This is a litte about me and where I write a little blurb about me. To find out more you will need to click on the read more button. </p>
+      </p>
+      <a href="/about.html" class="button">Read more</a>
+    </div>
+    </div>
+  </section>
+
+  <section id="whatido" class="grid">
+  <div class="col-12_sm-12">
+      <h2>What I Do</h2>
+  </div>
+    <div class="col circle-outer left-circle">
+      <div class="circle-inner">
+      <h3>Tiffany Talks</h3>
+       <p>Free your mind</p>
+       <a href="/tiffanytalks.html" class="button">Read More</a>
+      </div>
+    </div>
+  <div class="col circle-outer middle-circle">
+      <div class="circle-inner">
+      <h3>Tiffany Travels</h3>
+       <p>Feed your soul</p>
+       <a href="/tiffanytravels.html" class="button">Read More</a>
+      </div>
+    </div>
+  <div class="col circle-outer right-circle">
+      <div class="circle-inner">
+      <h3>Tiffany Trains</h3>
+       <p>Fuel your body</p>
+       <a href="/tiffanytrains.html" class="button">Read More</a>
+      </div>
+    </div>
+
+</section>
+
+  <section id="latestblogposts" class="grid">
+
+    <h2 class="col-12">Latest Blog Posts</h2>
+    {% for post in site.posts limit:3 %}
+
+      <!-- stuff that you want to repeat for each post -->
+      <div class="col-4_xs-12">
+        <div class="grid-image" style="background-image:url('{{post.image_path}}')">
+        </div>
+        <h3> {{post.title}}</h3>
+        <p> {{post.excerpt}}</p>
+        <a href="{{post.url}}" class="button">Read More</a>
+      </div>
+
+      {% endfor %}
+
+</section>
+      <section class="grid testimonials">
+        <div class="col-12">
+          <h2>Testimonials</h2>
+        </div>
+        <div class="testimonial col-6">
+          <p>"Tiffany was professional and always smiling, we would be happy to work with her again"</p>
+          <p class="testimonial-author">
+            - The Hive Tribe
+          </p>
+        </div>
+        <div class="col-6">
+          <div class="background-image testimonial-circle" style="background-image: url('/images/placeholder.jpg')">
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="background-image testimonial-circle" style="background-image: url('/images/placeholder.jpg')">
+          </div>
+        </div>
+        <div class="testimonial col-6">
+          <p>"Tiffany was professional and always smiling, we would be happy to work with her again" </p>
+          <p class="testimonial-author">
+            - The Hive Tribe
+          </p>
+        </div>
+        <div class="testimonial col-6">
+          <p>"Tiffany was professional and always smiling, we would be happy to work with her again"</p>
+          <p class="testimonial-author">
+            - The Hive Tribe
+          </p>
+        </div>
+        <div class="col-6">
+          <div class="background-image testimonial-circle" style="background-image: url('/images/placeholder.jpg')">
+          </div>
+        </div>
+      </section>

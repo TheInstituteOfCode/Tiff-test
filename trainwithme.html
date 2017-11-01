@@ -1,0 +1,52 @@
+---
+layout: default
+Title: Train with Me
+image_path: /images/placeholder.jpg
+---
+<div class="pageheading">
+  <h1>train with me</h1>
+</div>
+<section id="equipment" class="grid portfolio-filter">
+  <div class="col-12">
+    <h2>What Equipment Do You Have?</h2>
+  </div>
+  <div class="col-3 background-image" style="background-image: url('/images/placeholder.jpg')">
+    <a href="#">Weights</a>
+  </div>
+  <div class="col-3 background-image" style="background-image: url('/images/placeholder.jpg')">
+  <a href="#">Stairs</a>
+  </div>
+  <div class="col-3 background-image" style="background-image: url('/images/placeholder.jpg')">
+    <a href="#">Ladder</a>
+  </div>
+  <div class="col-3 background-image" style="background-image: url('/images/placeholder.jpg')">
+    <a href="#">Chair</a>
+  </div>
+
+</section>
+
+<section id="trainingvideos" class="grid filter-box">
+
+  <h2 class="col-12">Equipment Specific Training Videos</h2>
+  {% for workout in site.workouts %}
+
+    <!-- stuff that you want to repeat for each post -->
+    <div class="col-4 filter-item {{workout.filter-class}}">
+      <div class="filter-image" style="background-image:url('{{workout.image_path}}')">
+      </div>
+      <h3> {{workout.title}}</h3>
+      <a href="{{workout.url}}">Read More</a>
+    </div>
+
+    {% endfor %}
+
+</section>
+
+<section class="center">
+    <h2>How It Works</h2>
+    <p>
+       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <a href="#" class="button">Download Worksheet</a>
+  <!-- TO DO - ADD MAIL CHIMP LINK -->
+</section>
