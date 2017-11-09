@@ -20,7 +20,7 @@ Working as an air hostess had it's perks, but weight gain was not one of them (y
 
 ![](/uploads/versions/kayla6---x----455-520x---.jpg)
 
-It was also a time in my life where i was feeling particularly vulnerable; I was finding my feet again having returned back home to Perth and I was dating Richard's (see my previous post) who I felt too weak to resist. I decided that if I couldn’t find the strength internally to protect myself, I would begin on the outside and work my way in. &nbsp;With this double edged determination I went on the hunt for a fitness program.
+It was also a time in my life where i was feeling particularly vulnerable; I was finding my feet again having returned back home to Perth and I was dating Richard's (see my previous post) who I felt too weak to resist. I decided that if I couldn’t find the strength internally to protect myself, I would begin on the outside and work my way in.  With this double edged determination I went on the hunt for a fitness program.
 
 I stumbled across Kayla Itsines Bikini Body Guide (BBG) on Instagram and after seeing the transformation photo’s of other women I immediately went online and purchased a copy of the exercise Guide and Nutrition Guide for AUD 110 (Now the program is available as an app and she has released a cook book).
 
@@ -78,7 +78,7 @@ My physical and mental transformation was not all about exercise, in fact I woul
 * complex carbs only (brown rice, sweet potato, rye bread)
 * foods high in protein.
 
-I found the best way for me to maintain a healthy diet was to eat the same thing daily...now i know variety is the spice of life, but this is what worked for me for approximately 8 months! A regular day for me would begin with wheatbix and a banana for breakfast, rye bread with vegemite, avocado, tomato and feta cheese for lunch, a carrot or an apple for afternoon snack and a salad with marinated chicken for dinner. If I felt like something sweet for dessert I would have greek vanilla yoghurt with strawberries. Again, I'm not saying that this will work for everyone or that this is the best way, it's simply what worked for me.
+I found the best way for me to maintain a healthy diet was to eat the same thing daily…now i know variety is the spice of life, but this is what worked for me for approximately 8 months! A regular day for me would begin with wheatbix and a banana for breakfast, rye bread with vegemite, avocado, tomato and feta cheese for lunch, a carrot or an apple for afternoon snack and a salad with marinated chicken for dinner. If I felt like something sweet for dessert I would have greek vanilla yoghurt with strawberries. Again, I'm not saying that this will work for everyone or that this is the best way, it's simply what worked for me.
 
 ![](/uploads/versions/kayla3---x----535-525x---.jpg)
 
