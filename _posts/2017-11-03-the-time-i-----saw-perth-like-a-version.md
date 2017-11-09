@@ -5,12 +5,10 @@ tags:
 categories:
   - travel
 description: "I decided I would spend 24 hours In Perth City and look at it through the eyes of a tourist. What I had not expected was to see that different parts of Perth reminded me of other places I have visited around\_the world. So please read on to see how Perth is 'like a version' of\_everywhere else..."
-image_path: /uploads/perthlikeaversion.jpg
+image_path: /images/likeaversion.jpg
 filter-class:
 ---
 
-
-&nbsp;
 
 In Celebration of WA Day, I decided I would spend 24 hours In Perth City and look at it through the eyes of a tourist to try to gain a better appreciation for all that this wonderful home of mine has to offer. What I had not expected was to see that different parts of Perth reminded me of other places I have visited around the world. So please read on to see how Perth is 'like a version' of everywhere else…
 
@@ -36,7 +34,7 @@ Another reminder of Great Britain, though this one is located in Newcastle rathe
 
 **Perth's version of Paris**
 
-There are a couple of places in Perth that remind of Paris. Top of the list is King Street which is Perth's version of The Champs-&Eacute;lys&eacute;es. A very small version mind you, but quintessentially the same thing right? White buildings, designer labels and some sort of photoshoot happening. Here is me being not so fancy in front of my famous shop!
+There are a couple of places in Perth that remind of Paris. Top of the list is King Street which is Perth's version of The Champs-Élysées. A very small version mind you, but quintessentially the same thing right? White buildings, designer labels and some sort of photoshoot happening. Here is me being not so fancy in front of my famous shop!
 
 ![](/uploads/versions/champselyse---x----700-516x---.jpg)
 
