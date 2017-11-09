@@ -10,7 +10,7 @@ filter-class:
 ---
 
 
-Cosmetic Surgery...I'm not sure where your mind goes, but mine brings up images of people with plastic frozen faces. There is still such a negative stigma attached to certain kinds of treatments. Facials, IPL, breast reductions or chemical peels are acceptable, but getting cosmetic injections, fillers, liposuction or breast implants is frowned upon. In fact, when i told some people I was considering having some 'work' done, i was met with responses like 'but you are beautiful just as you are, why would you do that to yourself?' Read on to find out why I decided to get wrinkle relaxers and fillers in my face despite inevitable criticism, what each procedure involves and my views on it now.
+Cosmetic Surgery…I'm not sure where your mind goes, but mine brings up images of people with plastic frozen faces. There is still such a negative stigma attached to certain kinds of treatments. Facials, IPL, breast reductions or chemical peels are acceptable, but getting cosmetic injections, fillers, liposuction or breast implants is frowned upon. In fact, when i told some people I was considering having some 'work' done, i was met with responses like 'but you are beautiful just as you are, why would you do that to yourself?' Read on to find out why I decided to get wrinkle relaxers and fillers in my face despite inevitable criticism, what each procedure involves and my views on it now.
 
 **Why I considered facial treatments:**
 
@@ -26,7 +26,7 @@ Another part of my face that bothered me was the bags under my eyes. They were a
 
 I've seen and heard of some cosmetic horror stories from overseas botch jobs or getting an inexperienced practitioner and I certainly didn't want to be another horror story or to end up with duck lips. There are a growing number of places that offer cosmetic procedures in Western Australia so when it came to choosing where to go, I wanted to make sure it was somewhere safe, experienced and reputable.
 
-My research quickly directed me to the Absolute Cosmetic website where I could see that they had many years experience (over 20) and to quote their Medical Director, Dr Glenn Murray, "we pride ourselves on remaining at the forefront of aesthetic enhancements, using the latest surgical and non-surgical techniques to ensure the best results for our clients. We firmly believe in not 'overdoing' cosmetic procedures..." This is what sold me on them. I wanted something subtle and I wanted to be in the hands of the best.
+My research quickly directed me to the Absolute Cosmetic website where I could see that they had many years experience (over 20) and to quote their Medical Director, Dr Glenn Murray, "we pride ourselves on remaining at the forefront of aesthetic enhancements, using the latest surgical and non-surgical techniques to ensure the best results for our clients. We firmly believe in not 'overdoing' cosmetic procedures…" This is what sold me on them. I wanted something subtle and I wanted to be in the hands of the best.
 
 ![](/uploads/versions/absolute---x----459-446x---.jpg)
 
@@ -34,7 +34,7 @@ Having chosen where to go, I arranged a consultation with Dr Murray himself to d
 
 He then asked if I was stressed or tired because of the bags under my eyes. I explained that they are always there and have gotten worse with age. He recommended a dual approach of putting some filler into my cheeks and also into the tear trough (bag) under my eye. Because my bags were both wide and low the dual approach would reduce the puffiness and dark colouring.
 
-Out of curiosity I asked about my lips. I felt that my bottom lip was more full than my top lip and was surprised to learn that actually the ratio was about right. What is considered most beautiful is a top lip to bottom lip ration of about 40:60 or 50:50. So putting filler into my top lip &nbsp;would result in an unnatural looking ratio. What we could do was put a little filler in both top and bottom so the ratio remained the same but made the top lip a little more visible. After some further discussion we would to do my brow, lips and tear troughs over 2 sessions.
+Out of curiosity I asked about my lips. I felt that my bottom lip was more full than my top lip and was surprised to learn that actually the ratio was about right. What is considered most beautiful is a top lip to bottom lip ration of about 40:60 or 50:50. So putting filler into my top lip  would result in an unnatural looking ratio. What we could do was put a little filler in both top and bottom so the ratio remained the same but made the top lip a little more visible. After some further discussion we would to do my brow, lips and tear troughs over 2 sessions.
 
 **Procedure 1:**
 
@@ -60,7 +60,7 @@ I had no bruising except for a small dot on my chin, no swelling and no other si
 
 **My thoughts on Non-Surgical Cosmetic Procedures after having it done**
 
-Getting wrinkle relaxer doesn't hurt, it is temporary (3+ months) and it can have long term benefits in decreasing wrinkles. Despite stereotypes of plastic, unexpressive faces, Botox can look completely natural when done properly. So natural in fact that far more people have it done than I ever realised but because of the negative stigma attached people feel they have to deny or hide it. I want to be as authentic and transparent as possible hence why I am writing about this. I'm glad i broke my cosmetic injectables virginity, and I definitely intend to have it done again when my frown starts to return. My only regret...not having it done sooner!
+Getting wrinkle relaxer doesn't hurt, it is temporary (3+ months) and it can have long term benefits in decreasing wrinkles. Despite stereotypes of plastic, unexpressive faces, Botox can look completely natural when done properly. So natural in fact that far more people have it done than I ever realised but because of the negative stigma attached people feel they have to deny or hide it. I want to be as authentic and transparent as possible hence why I am writing about this. I'm glad i broke my cosmetic injectables virginity, and I definitely intend to have it done again when my frown starts to return. My only regret…not having it done sooner!
 
 Getting filler is a slightly more painful, involved and lengthy process. The effects of filler can last 9+ months so it's important to be certain what you are getting done and to do small amounts at a time. Again, now that I have had it done, I can notice it more in others and believe me there are PLENTY of people who have had it done but would have you believe otherwise. I think that people should be applauded for being honest about having work done rather than shamed and criticised for admitting it. I look at images of so many woman who have these plump cheeks and beautiful full lips and it creates such an unrealistic idea of what is natural beauty.
 
