@@ -4,8 +4,13 @@ title: The Time I ... Realised my Greatest Strength is my Depression
 tags:
 categories:
   - talks
-description: "When i told some people I was considering having some 'work' done, i was met with responses like 'but you are beautiful just as you are, why would you do that to yourself?' Read on to find out why I decided to get wrinkle relaxers and fillers in my face despite inevitable criticism,\_what\_each procedure involves and my views on it now."
-image_path: /images/famecover.jpg
+description: >-
+  The thing about having a mental health issue is that it is not a choice…what
+  is a choice is how you manage it and how you choose to look at it. For a long
+  time I was ashamed for having severe anxiety and depression and I thought it
+  made me less capable and weak, but I have come to realise that it is actually
+  my greatest strength. Read on to find out why!
+image_path: /images/depressioncover.jpg
 filter-class:
 ---
 
@@ -52,11 +57,11 @@ There have been a couple of occasions where I have not been able to hang on and 
 
 **How you can help someone with depression.**
 
-The truth is, there is not much you can do besides just BE THERE without judgement when and if the person wants you to be. Be patient with them and whatever you do, don't ignore them! I have a tendency to have obsessive thinking which means I can repeat a point of frustration or upset many times without being able to process or accept it which I know can be very frustrating for the person trying to listen to you and help you. Do not pressure them, do not guilt them, do not tell them to 'snap out of it'. Trust me, they already feel bad enough without you saying these things as much as you may think you are helping to give them a kick in the butt. Now is not the time for tough love. Encourage them with any positive steps they take and continue to invite them to things without pressuring them even though it is unlikely they will go. Check in with them &nbsp;every few days just so they know that you are important to them, their existence does matter. You may feel like you are not helping them but I promise you that just by sticking by them without judgement you are helping more than you realise. If however, their depression starts to effect your own mental wellbeing, then you do have to put yourself first and do what you need to so you can be ok. You can't help someone else if you are not ok yourself.
+The truth is, there is not much you can do besides just BE THERE without judgement when and if the person wants you to be. Be patient with them and whatever you do, don't ignore them! I have a tendency to have obsessive thinking which means I can repeat a point of frustration or upset many times without being able to process or accept it which I know can be very frustrating for the person trying to listen to you and help you. Do not pressure them, do not guilt them, do not tell them to 'snap out of it'. Trust me, they already feel bad enough without you saying these things as much as you may think you are helping to give them a kick in the butt. Now is not the time for tough love. Encourage them with any positive steps they take and continue to invite them to things without pressuring them even though it is unlikely they will go. Check in with them  every few days just so they know that you are important to them, their existence does matter. You may feel like you are not helping them but I promise you that just by sticking by them without judgement you are helping more than you realise. If however, their depression starts to effect your own mental wellbeing, then you do have to put yourself first and do what you need to so you can be ok. You can't help someone else if you are not ok yourself.
 
 ![](/uploads/versions/depression4---x----703-425x---.jpg)
 
-**Why it is my greatest asset.&nbsp;**
+**Why it is my greatest asset.**
 
 While severe anxiety and depression are not things I would wish upon anyone, I do believe they have forced me to be a better version of me. Being able to experience life from a very low place means I can also experience life from a very high place, I can feel things very deeply, I am very self aware, I have a true appreciation of happiness and I focus my life on doing things that make me happy above all else.
 
