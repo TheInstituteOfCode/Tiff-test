@@ -77,7 +77,7 @@ p {
 }
 
 .background-image {
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
