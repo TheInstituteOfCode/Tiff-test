@@ -318,7 +318,10 @@ header .socials {
   background-color: rgb(250,240,241);
 }
 
-
+/*styling on tiffany travels page*/
+#destinations .col-3 {
+  padding: 5%
+}
 
 /*styling on testimonial circles*/
 .testimonials {
