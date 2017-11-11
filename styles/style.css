@@ -15,11 +15,12 @@ img{
   max-width: 100%;
 }
 
-header, footer, section {
+header, footer {
   padding: 2% 5%;
 }
 
 section {
+  padding: 5%;
   border-top: 1px solid rgb(240,240,240);
   border-bottom: 1px solid rgb(240,240,240);
 }
