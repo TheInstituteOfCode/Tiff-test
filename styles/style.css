@@ -77,7 +77,7 @@ p {
 }
 
 .background-image {
-  background-size:cover;
+  background-size: contain;
   background-position: center;
 }
 
@@ -319,7 +319,7 @@ header .socials {
 }
 
 /*styling on tiffany travels page*/
-#destinations .col-3 {
+#destinations .col-3.background-image {
   padding: 5%;
 }
 
