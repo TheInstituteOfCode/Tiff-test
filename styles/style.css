@@ -36,7 +36,7 @@ h1, h2, h3, h4 {
 h3 {
   text-align:center;
   font-size: 24px;
-  min-height: 6em;
+  min-height: 4em;
 }
 
 h2 {
@@ -75,8 +75,9 @@ p {
 }
 
 .filter-image, .grid-image {
-  padding-bottom: 50%;
+  padding-bottom: 100%;
   background-size:cover;
+  background-position: center;
 }
 
 .background-image {
