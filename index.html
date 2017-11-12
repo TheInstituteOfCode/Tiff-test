@@ -61,7 +61,7 @@ contact-form: true
         <div class="grid-image" style="background-image:url('{{post.image_path}}')">
         </div>
         <h3> {{post.title}}</h3>
-        <p>{{ post.excerpt | truncatewords: 50 }}</p>
+        <p>{{ post.excerpt | truncatewords:40 }}</p>
         <a href="{{post.url}}" class="button">Read More</a>
       </div>
 

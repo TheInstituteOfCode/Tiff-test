@@ -35,7 +35,8 @@ h1, h2, h3, h4 {
 
 h3 {
   text-align:center;
-  font-size: 30px;
+  font-size: 24px;
+  min-height: 6em;
 }
 
 h2 {
@@ -320,7 +321,7 @@ header .socials {
   background-color: rgb(250,240,241);
 }
 
-.col-12_xs-4 h3{
+.col-12_xs-4 h3 {
   font-size: 24px;
   min-height: 6em;
 }
