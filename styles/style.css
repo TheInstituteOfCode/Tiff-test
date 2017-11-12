@@ -82,6 +82,7 @@ p {
 
 .filter-image, .grid-image {
   background-size:cover;
+  padding-bottom: 55%;
 }
 
 .grid-blogimage {
