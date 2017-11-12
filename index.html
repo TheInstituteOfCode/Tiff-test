@@ -57,8 +57,8 @@ contact-form: true
     {% for post in site.posts limit:3 %}
 
       <!-- stuff that you want to repeat for each post -->
-      <div class="col-4_xs-12">
-        <div class="grid-image" style="background-image:url('{{post.image_path}}')">
+      <div class="bp col-4_xs-12">
+        <div class="grid-blogimage" style="background-image:url('{{post.image_path}}')">
         </div>
         <h3> {{post.title}}</h3>
         <p>{{ post.excerpt | truncatewords:40 }}</p>
