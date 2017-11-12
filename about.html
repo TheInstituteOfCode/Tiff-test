@@ -21,7 +21,7 @@ contact-form: true
     </div>
       <div class="col-6_sm-12">
         <p>
-          This struggle to find my place in the world, along with a few predispositions led to several extremely low points in my life and being diagnosed with anxiety and depression. I spent my twenties yo-yoing between phases of travel and joy and phases of trying to 'settle down' and 'be normal'. While I wish I had the courage much sooner in life to just accept that convention, tradition and rules were not for me, I do not regret the journey I have been on and the experiences that have brought me to where I am and what I am doing today.  
+          This struggle to find my place in the world, along with a few predispositions led to several extremely low points in my life and being diagnosed with anxiety and depression. I spent my twenties yo-yoing between phases of travel and joy and phases of trying to 'settle down' and 'be normal'. While I wish I had the courage much sooner in life to just accept that convention, tradition and rules were not for me, I do not regret the journey I have been on and the experiences that have brought me to where I am and what I am doing today.
         </p>
       </div>
       <div class="col-6_sm-12">
@@ -92,7 +92,7 @@ contact-form: true
       <div class="grid-image" style="background-image:url('{{post.image_path}}')">
       </div>
       <h3> {{post.title}}</h3>
-      <p> {{post.excerpt}}</p>
+      <p>{{ post.excerpt | truncatewords: 50 }}</p>
       <a href="{{post.url}}">Read More</a>
     </div>
 
