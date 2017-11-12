@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Time I ... Realised Depression is my strength
+title: The Time I ... Realised Depression is my Strength
 tags:
 categories:
   - talks
