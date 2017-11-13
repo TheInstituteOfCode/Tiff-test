@@ -374,7 +374,7 @@ header .socials {
 }
 
 /*styling on blog post*/
-#postpage {
+section.postpage {
   background-color: rgb(250,240,241);
 }
 #sidebar div {
