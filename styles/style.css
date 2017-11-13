@@ -364,6 +364,15 @@ header .socials {
 /*styling on testimonial circles*/
 .testimonials {
   background-color: rgb(245,245,245);
+  padding: 2% 15%;
+}
+
+.testimonial-author {
+  color:rgb(120,120,120);
+}
+.testimonial {
+  background-color: white;
+  padding: 2% 5%;
 }
 
 .testimonial-circle {
