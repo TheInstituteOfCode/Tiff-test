@@ -382,7 +382,7 @@ section.postpage {
   margin: 0 0 1rem;
   padding: 2%;
 }
-#blogpost {
+#blogpost div {
   background-color: :white;
 }
 
