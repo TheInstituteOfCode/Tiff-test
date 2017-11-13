@@ -1,97 +1,36 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
-    <title>TheTiffanyTimes {{page.title}}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.0/gridlex.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Source+Sans+Pro:400,400i,700" rel="stylesheet">
-<!--My Styles-->
-    <link rel="stylesheet" href="/styles/style.css" />
-<!-- Font awesome scripts-->
-    <script src="https://use.fontawesome.com/4823380be7.js"></script>
-  </head>
+    
+    {% include head.html %}
+    
 </html>
 
-<body>
+<body {% if page.name =='index.html' %} class="home-page" {% endif %}>
 
-  <header id="home">
-    <nav class="menu grid-spaceBetween">
-      <div class="logo col-1_sm-12">
-      </div>
-      <div class="col-11_sm-12 right mob-center mob-hide">
-        <a href="/index.html">Home</a>
-        <a href="/about.html">About</a>
-        <a href="/blog.html">Blog</a>
-        <div class="dropdownfinder">
-          <a>Train with me</a>
-          <div class="dropdownbox">
-                <a href="/tiffanytrains.html">Tiffany Trains</a>
-                <a href="/trainwithme.html">Training Program</a>
-          </div>
-        </div>
-        <div class="dropdownfinder">
-          <a>Work with me</a>
-          <div class="dropdownbox">
-              <a href="/tiffanytalks.html">Tiffany Talks</a>
-              <a href="/tiffanytravels.html">Tiffany Travels</a>
-              <a href="/workwithme.html">Booking Form</a>
-        </div>
-        </div>
-        <div class="socials">
-          <a href="https://www.instagram.com/tiffany_janes/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-          <a href="https://www.facebook.com/Thetiffanytimes-1131799556915920/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-          <a href="mailto:hello@thetiffanytimes.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-        </div>
-      </div>
-    </nav>
+    {% if page.big-banner %}
+    
+    <header class="big-banner" style="background-image:url('{{page.banner_image_path}}');">
+    
+    {% include nav.html %}
+    
+    <div class="header grid-center">
+        <h1 class="col-8">{{page.heading}}</h1>
+        <div class="col-4"></div>
+        <p class="col-8">{{page.sub-heading}}</p>
+        <div class="col-4"></div>
+    </div>
+    
+    </header>
+    
+    {% else %}
+    
+    <header class="small-banner">
+        {% include nav.html %}
+    </header>
+    
+    {% endif %}
 
-    <!---burger menu Navs--->
-    <nav>
-  <div class="burger-button mob-show">
-      <span class="burger-top"></span>
-      <span class="burger-middle"></span>
-      <span class="burger-bottom"></span>
-  </div>
-
-   <div class="burger-menu">
-     <ul>
-       <li>
-         <a href="/index.html">Home</a>
-       </li>
-       <li>
-    <ul>
-      <li>
-        <a href="/about.html">About</a>
-      </li>
-      <li>
-        <a href="/blog.html">Blog</a>
-      </li>
-      <li>
-        <a href="/trainwithme.html">Train with me</a>
-      </li>
-      <li>
-        <a href="/workwithme.html">Work with me</a>
-      </li>
-      <li>
-        <div class="socials">
-          <a href="https://www.instagram.com/tiffany_janes/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-          <a href="https://www.facebook.com/Thetiffanytimes-1131799556915920/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-          <a href="mailto:hello@thetiffanytimes.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-        </div>
-      </li>
-    <ul>
-  </div>
-</nav>
-<!---end burger menu Nav--->
-
-<div class="header grid-center">
-    <h1 class="col-8">The Tiffany Times</h1>
-    <div class="col-4"></div>
-    <p class="col-8">In the pursuit of happiness</p>
-    <div class="col-4"></div>
-</div>
-
-</header>
+  
 
 {{content}}
 

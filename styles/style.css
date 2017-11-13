@@ -28,7 +28,7 @@ section {
   padding: 2%;
 }
 h1, h2, h3, h4 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', cursive;
     margin: 0.5rem 0;
     font-weight:normal;
 }
@@ -128,13 +128,7 @@ p {
     margin: auto;
 }
 
-.pageheading {
-  background-image:url('/images/aboutme.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 25vh;
-  background-position: 100% 38%;
-}
+
 /*styling on drop menus*/
 
 .logo img {
@@ -180,50 +174,71 @@ p {
 }
 
 
-/*Header Styles*/
+/* ----------- Header Styles ------------------ */
+/* Universal Header */ 
 
-header{
+.logo h2 {
+    font-size: 1.5rem;
+    font-size: 1.5rem;
+    text-transform: lowercase;
+    text-align: left;
+    font-family: 'Abril Fatface', cursive;
+}
+
+    /*social media styles*/
+    header .socials {
+      display:inline-block;
+    }
+    .socials .fa {
+      color:mediumvioletred;
+      font-size: 30px;
+      transition: all 1s;
+      padding: 0.2rem;
+    }
+    
+    .socials .fa:hover{
+      color:grey;
+    }
+
+/* Big Banner Header */ 
+
+.big-banner {
   background-image:url('/images/header.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
   background-position: 70% 50%;
 }
-header .col-6 {
+
+.big-banner .col-6 {
   padding: 0;
 }
 
-header.header {
-  padding: 2%;
-}
-
-#home h1 {
+header h1 { /* this is the tiffany times logo */
   text-align:center;
   font-size: 70px;
   font-weight:lighter;
   text-transform: lowercase;
   padding-top: 15vh;
 }
-#home p {
+/* for the home page only */
+.home-page header h1 {
+    font-family: 'Abril Fatface', serif ;
+}
+
+header p {
   text-align: center;
   font-size: 30px;
 }
 
 
-/*social media styles*/
-header .socials {
-  display:inline-block;
-}
-.socials .fa {
-  color:mediumvioletred;
-  font-size: 30px;
-  transition: all 1s;
-  padding: 0.2rem;
+/* Small banner header */
+
+.small-banner {
+    padding: 1% 5%;
 }
 
-.socials .fa:hover{
-  color:grey;
-}
+
 /*styling on about me seciton*/
 
 .aboutblurb {
@@ -386,10 +401,14 @@ header .socials {
 section.postpage {
   background-color: rgb(250,240,241);
 }
+
+#sidebar {
+    padding: 0 2%;
+}
 #sidebar div {
   background-color: white;
   margin: 0 0 1rem;
-  padding: 2%;
+  padding: 1rem;
 }
 #blogpost {
   background-color: white;
