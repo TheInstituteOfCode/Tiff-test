@@ -28,7 +28,7 @@ section {
   padding: 2%;
 }
 h1, h2, h3, h4 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', cursive;
     margin: 0.5rem 0;
     font-weight:normal;
 }
@@ -179,6 +179,10 @@ p {
 
 .logo h2 {
     font-size: 1.5rem;
+    font-size: 1.5rem;
+    text-transform: lowercase;
+    text-align: left;
+    font-family: 'Abril Fatface', cursive;
 }
 
     /*social media styles*/
