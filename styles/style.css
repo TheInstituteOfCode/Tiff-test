@@ -373,6 +373,19 @@ header .socials {
   margin: auto;
 }
 
+/*styling on blog post*/
+#postpage {
+  background-color: rgb(250,240,241);
+}
+#sidebar div {
+  background-color: white;
+  margin: 0 0 1rem;
+  padding: 2%;
+}
+#blogpost {
+  background-color: :white;
+}
+
 /*styling on contacts*/
 
 footer#subscribe {
