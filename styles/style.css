@@ -128,13 +128,7 @@ p {
     margin: auto;
 }
 
-.pageheading {
-  background-image:url('/images/aboutme.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 25vh;
-  background-position: 100% 38%;
-}
+
 /*styling on drop menus*/
 
 .logo img {
@@ -180,24 +174,39 @@ p {
 }
 
 
-/*Header Styles*/
+/* ----------- Header Styles ------------------ */
+/* Universal Header */ 
 
-header{
+    /*social media styles*/
+    header .socials {
+      display:inline-block;
+    }
+    .socials .fa {
+      color:mediumvioletred;
+      font-size: 30px;
+      transition: all 1s;
+      padding: 0.2rem;
+    }
+    
+    .socials .fa:hover{
+      color:grey;
+    }
+
+/* Big Banner Header */ 
+
+.big-banner {
   background-image:url('/images/header.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
   background-position: 70% 50%;
 }
-header .col-6 {
+
+.big-banner .col-6 {
   padding: 0;
 }
 
-header.header {
-  padding: 2%;
-}
-
-header h1 {
+header h1 { /* this is the tiffany times logo */
   text-align:center;
   font-size: 70px;
   font-weight:lighter;
@@ -210,20 +219,11 @@ header p {
 }
 
 
-/*social media styles*/
-header .socials {
-  display:inline-block;
-}
-.socials .fa {
-  color:mediumvioletred;
-  font-size: 30px;
-  transition: all 1s;
-  padding: 0.2rem;
-}
+/* Small banner header */
 
-.socials .fa:hover{
-  color:grey;
-}
+
+
+
 /*styling on about me seciton*/
 
 .aboutblurb {
