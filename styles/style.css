@@ -16,7 +16,7 @@ img{
 }
 
 header, footer, section {
-  padding: 5%;
+  padding: 5%;bl
 }
 
 section {
@@ -391,7 +391,7 @@ section.postpage {
   margin: 0 0 1rem;
   padding: 2%;
 }
-#blogpost div {
+#blogpost {
   background-color: white;
 }
 
