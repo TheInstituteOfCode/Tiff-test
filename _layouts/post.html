@@ -43,7 +43,9 @@ Title: Blogpost
 
     <div id="blogpost" class="col-9">
       <h2>{{page.title}}</h2>
-      <span class="tag">{{page.tags}}</span>
+      {% for tag in post.tags %}
+      <tag>{{tag}}</tag>
+      {% endfor %}
       <div>
         <img src="{{page.image_path}}" />
       </div>
