@@ -107,9 +107,6 @@ p {
 .no-padding {
   padding: 0;
 }
-p.padding-2 {
-  padding: 2%;
-}
 
 .margin-auto {
     margin: auto;
@@ -150,6 +147,7 @@ p.padding-2 {
 .dropdownbox {
   position:absolute;
   display:none;
+  text-align:left;
 }
 .dropdownbox a {
   display: block;
