@@ -16,7 +16,7 @@ img{
 }
 
 header, footer, section {
-  padding: 5%;bl
+  padding: 5%;
 }
 
 section {
@@ -388,7 +388,7 @@ section.postpage {
 }
 
 #sidebar {
-    padding: 0;
+    padding: 0 2%;
 }
 #sidebar div {
   background-color: white;
