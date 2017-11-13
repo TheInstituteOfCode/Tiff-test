@@ -107,6 +107,9 @@ p {
 .no-padding {
   padding: 0;
 }
+p.padding-2 {
+  padding: 2%;
+}
 
 .margin-auto {
     margin: auto;
