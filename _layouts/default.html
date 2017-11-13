@@ -7,19 +7,30 @@
 
 <body>
 
-  <header id="{{page.name}}" style="background-image:url('{{page.banner_image_path}}');">
+    {% if page.big-banner == 'true' %}
+    
+    <header class="big-banner" id="{{page.name}}" style="background-image:url('{{page.banner_image_path}}');">
     
     {% include nav.html %}
-<!---end burger menu Nav--->
+    
+    <div class="header grid-center">
+        <h1 class="col-8">{{page.heading}}</h1>
+        <div class="col-4"></div>
+        <p class="col-8">{{page.sub-heading}}</p>
+        <div class="col-4"></div>
+    </div>
+    
+    </header>
+    
+    {% else %}
+    
+    <header class="small-banner">
+        {% include nav.html %}
+    </header>
+    
+    {% endif %}
 
-<div class="header grid-center">
-    <h1 class="col-8">{{page.heading}}</h1>
-    <div class="col-4"></div>
-    <p class="col-8">{{page.sub-heading}}</p>
-    <div class="col-4"></div>
-</div>
-
-</header>
+  
 
 {{content}}
 
