@@ -93,7 +93,7 @@ p {
    text-transform: uppercase;
    letter-spacing: 1px;
    border: 1px solid #c71585;
-   padding: 1;
+   padding: 1rem;
    cursor: pointer; 
 }
 
