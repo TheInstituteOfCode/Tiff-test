@@ -104,8 +104,8 @@ p {
   padding-bottom: 55%;
 }
 
-.grid-blogimage {
-  padding-bottom: 100%;
+.post-blogimage {
+  padding-bottom: 75%;
   background-size:cover;
   background-position: center;
 }
