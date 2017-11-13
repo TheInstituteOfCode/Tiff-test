@@ -197,14 +197,14 @@ header.header {
   padding: 2%;
 }
 
-#home h1 {
+header h1 {
   text-align:center;
   font-size: 70px;
   font-weight:lighter;
   text-transform: lowercase;
   padding-top: 15vh;
 }
-#home p {
+header p {
   text-align: center;
   font-size: 30px;
 }
