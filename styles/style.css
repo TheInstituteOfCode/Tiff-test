@@ -221,6 +221,11 @@ header h1 { /* this is the tiffany times logo */
   text-transform: lowercase;
   padding-top: 15vh;
 }
+/* for the home page only */
+.home-page header h1 {
+    font-family: 'Abril Fatface', serif ;
+}
+
 header p {
   text-align: center;
   font-size: 30px;
