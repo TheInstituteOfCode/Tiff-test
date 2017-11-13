@@ -4,6 +4,7 @@ title: The Time I ... Realised Depression is my Strength
 tags:
 categories:
   - talks
+  - featured
 description: >-
   The thing about having a mental health issue is that it is not a choice…what
   is a choice is how you manage it and how you choose to look at it. For a long

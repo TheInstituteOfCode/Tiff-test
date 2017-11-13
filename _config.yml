@@ -6,6 +6,8 @@ categories:
 
 gems:
   - jekyll-archives
+  
+permalink: /:year/:month/:day/:title/
 
 jekyll-archives:
   enabled: all
