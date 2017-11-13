@@ -386,6 +386,10 @@ header .socials {
 section.postpage {
   background-color: rgb(250,240,241);
 }
+
+#sidebar {
+    padding: 0;
+}
 #sidebar div {
   background-color: white;
   margin: 0 0 1rem;
