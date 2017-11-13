@@ -58,11 +58,13 @@ contact-form: true
 
       <!-- stuff that you want to repeat for each post -->
       <div class="bp col-4_xs-12">
+      <a href="{{post.url}}"
         <div class="grid-blogimage" style="background-image:url('{{post.image_path}}')">
         </div>
         <h3> {{post.title}}</h3>
         <p>{{ post.excerpt | truncatewords:40 }}</p>
         <a href="{{post.url}}" class="button">Read More</a>
+      </a>
       </div>
 
       {% endfor %}
