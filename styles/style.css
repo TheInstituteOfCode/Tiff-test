@@ -94,7 +94,10 @@ p {
    letter-spacing: 1px;
    border: 1px solid #c71585;
    padding: 1;
+   cursor: pointer; 
 }
+
+
 
 .filter-image, .grid-image {
   background-size:cover;
