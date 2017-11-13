@@ -2,8 +2,9 @@
 layout: post
 title: The Time I ... Transformed my Body and Mind Using the Bikini Body Guide
 tags:
+  - 'Fitness,'
 categories:
-  - talks
+  - training
 description: "I learned how to effectively and efficiently complete a workout and maintain a healthy diet using\_Kayla Itsines BBG guides. The proof is in the pudding (which you can eat in moderation!) Read on if you would like to find out more about the program and my results."
 image_path: /images/kaylacover.jpg
 filter-class:
