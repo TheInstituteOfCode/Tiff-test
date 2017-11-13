@@ -221,7 +221,9 @@ header p {
 
 /* Small banner header */
 
-
+.small-banner {
+    padding: 1% 5%;
+}
 
 
 /*styling on about me seciton*/
