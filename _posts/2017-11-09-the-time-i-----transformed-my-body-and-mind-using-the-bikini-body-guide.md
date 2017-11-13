@@ -4,6 +4,8 @@ title: The Time I ... Transformed my Body and Mind Using the Bikini Body Guide
 tags:
   - 'Fitness,'
   - 'Equipment,'
+  - Island
+  - Dubai
   - Australia
 categories:
   - training
