@@ -209,6 +209,10 @@ header .socials {
   color:grey;
 }
 /*styling on about me seciton*/
+
+.aboutblurb {
+  padding:5%;  
+}
 #about {
   background-image:url('/images/aboutme.jpg');
   background-repeat: no-repeat;
