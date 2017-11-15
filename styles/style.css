@@ -186,7 +186,7 @@ p {
 }
 
     /*social media styles*/
-    header .socials {
+    .menu .socials {
       display:inline-block;
     }
     .socials .fa {
