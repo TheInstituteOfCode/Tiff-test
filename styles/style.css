@@ -41,7 +41,7 @@ h3 {
 .bp h3 {
   text-align:center;
   font-size: 24px;
-  min-height: 3em;
+  min-height: 4em;
 }
 
 
@@ -93,11 +93,8 @@ p {
    text-transform: uppercase;
    letter-spacing: 1px;
    border: 1px solid #c71585;
-   padding: 1rem;
-   cursor: pointer; 
+   padding: 1;
 }
-
-
 
 .filter-image, .grid-image {
   background-size:cover;
@@ -105,7 +102,7 @@ p {
 }
 
 .post-blogimage {
-  padding-bottom: 75%;
+  padding-bottom: 100%;
   background-size:cover;
   background-position: center;
 }
@@ -178,7 +175,7 @@ p {
 
 
 /* ----------- Header Styles ------------------ */
-/* Universal Header */ 
+/* Universal Header */
 
 .logo h2 {
     font-size: 1.5rem;
@@ -198,12 +195,12 @@ p {
       transition: all 1s;
       padding: 0.2rem;
     }
-    
+
     .socials .fa:hover{
       color:grey;
     }
 
-/* Big Banner Header */ 
+/* Big Banner Header */
 
 .big-banner {
   background-image:url('/images/header.jpg');
