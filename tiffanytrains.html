@@ -2,59 +2,32 @@
 layout: default
 Title: Tiffany Trains
 contact-form: true
+big-banner: true
+heading: Tiffany Trains
+sub-heading: Blog posts about stuff
 ---
 <div class="pageheading">
   <h1>Tiffany Trains</h1>
 </div>
 
 <section id="trainingprogram" class="grid">
-  <div class="col-12">
-    <h2>Fitness you can do anywhere</h2>
-  </div>
-  <div class="col-6">
-    <h3>About the program</h3>
-    <p>
-      Description of the traing program and how it is meant to be used, who should use it, how it makes you feel. Description of the traing program and how it is meant to be used, who should use it, how it makes you feel. Description of the traing program and how it is meant to be used, who should use it, how it makes you feel.
-    </p>
-      <a href="/trainwithme.html">Train with me</a>
-  </div>
-  <div class="col-6">
-    <img src="/images/placeholder.jpg" />
+<section>
+
+  <h2>On my mind ...  </h2>
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  <div class="grid">
+      {% for post in site.categories.training %}
+
+        <!-- stuff that you want to repeat for each post -->
+        <div class="bp col-4_xs-12">
+          <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
+          </div>
+          <h3> {{post.title}}</h3>
+          <p>{{ post.excerpt | truncatewords:40 }}</p>
+          <a href="{{post.url}}">Read More</a>
+        </div>
+
+        {% endfor %}
     </div>
-  <div class="col-6">
-    <img src="/images/placeholder.jpg" />
-  </div>
-    <div class="col-6">
-      <h3>Why train with me</h3>
-        <p>
-          This is about my fitness journey, why I created this program and my fitness experience. This is about my fitness journey, why I created this program and my fitness experience. This is about my fitness journey, why I created this program and my fitness experience.
-        </p>
-    </div>
-</section>
-
-<section class="center">
-    <h2>How It Works</h2>
-    <p>
-       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-    <a href="#" class="button">Download Worksheet</a>
-  <!-- TO DO - ADD MAIL CHIMP LINK -->
-</section>
-
-<section id="relatedblogposts" class="grid filter-box">
-
-  <h2 class="col-12">Related Blog Posts</h2>
-  {% for post in site.categories.training limit:3 %}
-
-    <!-- stuff that you want to repeat for each post -->
-    <div class="bp col-4_xs-12 filter-item">
-      <div class="filter-image" style="background-image:url('{{post.image_path}}')">
-      </div>
-      <h3> {{post.title}}</h3>
-      <p>{{ post.excerpt | truncatewords:40 }}</p>
-      <a href="{{post.url}}">Read More</a>
-    </div>
-
-    {% endfor %}
-
 </section>

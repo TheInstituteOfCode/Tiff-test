@@ -2,6 +2,10 @@
 layout: default
 Title: Tiffany Travels
 contact-form: true
+big-banner: true
+heading: Tiffany Travels
+sub-heading: Feed the Soul
+banner_image_path: /images/header.jpg
 ---
 <div>
   <h1>Tiffany Travels</h1>
@@ -105,7 +109,7 @@ contact-form: true
 
     <!-- stuff that you want to repeat for each post -->
     <div class="bp col-4_xs-12 filter-item {{post.filter-class}}">
-      <div class="grid-blogimage grid-item {{post.destination}}" style="background-image:url('{{post.image_path}}')">
+      <div class="post-blogimage grid-item {{post.destination}}" style="background-image:url('{{post.image_path}}')">
       </div>
       <h3> {{post.title}}</h3>
       <p>{{ post.excerpt | truncatewords:40 }}</p>
