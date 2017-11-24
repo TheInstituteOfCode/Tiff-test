@@ -11,7 +11,7 @@ description: >-
   time I was ashamed for having severe anxiety and depression and I thought it
   made me less capable and weak, but I have come to realise that it is actually
   my greatest strength. Read on to find out why!
-image_path: /images/depressioncover.jpg
+image_path: /uploads/Attachment-1-1.jpeg
 filter-class:
 ---
 
