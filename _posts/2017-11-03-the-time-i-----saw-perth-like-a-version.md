@@ -5,7 +5,7 @@ tags:
 categories:
   - travel
 description: "I decided I would spend 24 hours In Perth City and look at it through the eyes of a tourist. What I had not expected was to see that different parts of Perth reminded me of other places I have visited around\_the world. So please read on to see how Perth is 'like a version' of\_everywhere else..."
-image_path: /images/likeaversion.jpg
+image_path: /uploads/Attachment-1-6.jpeg
 filter-class:
 ---
 
