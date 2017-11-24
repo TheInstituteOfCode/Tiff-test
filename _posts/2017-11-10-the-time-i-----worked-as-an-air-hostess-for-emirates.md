@@ -5,12 +5,12 @@ tags:
 categories:
   - travel
 description: "I was drawn to being an air hostess like a\_moth to a flame. I love to travel, I love adventure and I am known to do things to the extreme. So naturally I set my sights on working for arguably the most prominent airline in the world, Emirates, based in the cosmopolitan metropolis of Dubai. If you have ever wondered what goes on behind those red curtains, then read on..."
-image_path: /images/emiratescover.jpg
+image_path: /uploads/Attachment-1-10.jpeg
 filter-class:
 ---
 
 
-I was drawn to being an air hostess like a moth to a flame. I love to travel, I love adventure and I am known to do things to the extreme. So naturally I set my sights on working for arguably the most prominent airline in the world, Emirates, based in the cosmopolitan metropolis of Dubai. If you have ever wondered what goes on behind those red curtains, then read on...
+I was drawn to being an air hostess like a moth to a flame. I love to travel, I love adventure and I am known to do things to the extreme. So naturally I set my sights on working for arguably the most prominent airline in the world, Emirates, based in the cosmopolitan metropolis of Dubai. If you have ever wondered what goes on behind those red curtains, then read on…
 
 ![](/uploads/versions/emirates1---x----640-513x---.jpg)
 
@@ -54,7 +54,7 @@ Training was split into 4 core areas. 2 weeks for learning the aircraft layout a
 
 ![](/uploads/versions/emirates4---x----701-484x---.jpg)
 
-Training wraps up with 2 'Supi' flights or training flights were you are an extra (supplementary) crew member and you get to sit in the cockpit with the Captain for take-off and landing. You can expect that the crew will play a few pranks on you. My crew got me to take a comb to a bald guy saying that he had asked for it! Poor guy was very confused but it made the crew laugh hysterically. After these flights you will begin your first flight roster and learn what fatigue and jet-lag &nbsp;really mean.
+Training wraps up with 2 'Supi' flights or training flights were you are an extra (supplementary) crew member and you get to sit in the cockpit with the Captain for take-off and landing. You can expect that the crew will play a few pranks on you. My crew got me to take a comb to a bald guy saying that he had asked for it! Poor guy was very confused but it made the crew laugh hysterically. After these flights you will begin your first flight roster and learn what fatigue and jet-lag  really mean.
 
 **Time to fly**
 
@@ -74,7 +74,7 @@ Now the actual work involved in being Cabin crew is rather gross and exhausting.
 
 **Life in the sandpit**
 
-Dubai is a city unlike any other. Built in a seemingly unliveable environment, this city aims to impress. But once you see past the facade you see it is a soulless and pretentious city that has little to offer a nature loving free spirit like myself. Sure the Malls are massive and fancy, the desert safari is a fun experience, the hotels are flashy and the 'beaches' are...well the beaches are shit as they are hot and salty and man made...but after a week of doing the touristy things, the reality of living in Dubai sets in.
+Dubai is a city unlike any other. Built in a seemingly unliveable environment, this city aims to impress. But once you see past the facade you see it is a soulless and pretentious city that has little to offer a nature loving free spirit like myself. Sure the Malls are massive and fancy, the desert safari is a fun experience, the hotels are flashy and the 'beaches' are…well the beaches are shit as they are hot and salty and man made…but after a week of doing the touristy things, the reality of living in Dubai sets in.
 
 ![](/uploads/versions/emirates8---x----702-515x---.jpg)
 
