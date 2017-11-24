@@ -14,8 +14,12 @@ filter-class: Australia
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I made this video as my entry for a competition to spend last summer in Europe with a tour company. My entry did not win, however, I did enjoy making it and it shows one of my favourite places to visit in Western Australia - Rottnest Island.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+Rottnest is only a 40 minute ferry ride from Fremantle and with the new ferry service, it is more affordable than ever! Home of the Quokka, Rottnest was so named because when it was first discovered by Dutch explorers, the Quokka's were mistaken for giant rats. Rotte Nest is Ductch for Rats Nest and so came about the name Rottnest, or Rotto as we locals refer to it.&nbsp;&nbsp;
+
+I highly recommend visiting Rotto if you are ever over in West Aus! I hope you enjoy my video :)
+
+<style type="text/css">.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed//nDS2S7hKxhM" frameborder="0" allowfullscreen=""></iframe></div>
