@@ -9,7 +9,7 @@ description: >-
   many Richards over the years and become familiar with their behaviours that I
   came up with a theory for identifying these men which I call the Richard
   Theory. But first let me introduce you to Richard.
-image_path: /images/richardcover.jpg
+image_path: /uploads/Attachment-1-7.jpeg
 filter-class:
 ---
 
@@ -66,7 +66,7 @@ Richard will end things by telling you something along the following lines:
 
 ![](/uploads/versions/richard4---x----439-278x---.jpg)
 
-All of which leave you with a false sense of hope that maybe at some point he will be ready and &nbsp;he could be the man that initially showed you so much potential. Sneaky Richard has succeeded in leaving the door open just slightly should he get bored in future and need an ego boost.
+All of which leave you with a false sense of hope that maybe at some point he will be ready and  he could be the man that initially showed you so much potential. Sneaky Richard has succeeded in leaving the door open just slightly should he get bored in future and need an ego boost.
 
 **4. Richard doesn’t want a bad reputation.**
 
