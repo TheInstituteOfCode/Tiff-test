@@ -2,11 +2,12 @@
 layout: post
 title: The Time I ... Spent a Month Living in Canggu
 tags:
+  - Indonesia
 categories:
   - travel
 description: "If you love to surf (or love to perve on hot surfer bodies), enjoy eating quality\_healthy\_food, lazing on relaxed beaches, chilled vibes with\_just the right amount of partying, then Canggu is the place for you. Read on to find out my top tips for having the best time in 'The Gu'!"
-image_path: /images/canggucover.jpg
-filter-class:
+image_path: /uploads/Attachment-1.jpeg
+filter-class: Indonesia
 ---
 
 
@@ -22,9 +23,7 @@ My typical day in Canggu:
 
 ![](/uploads/versions/canggu2---x----386-464x---.jpg)
 
-11am: Time for some sunshine! If you have a pool where you are staying, then lucky you! Enjoy! If not, there are many other options. Head down to Old Mans or Echo Beach and hire a lounge chair for the day for just 100 000 IDR! Finn's Beach Club cost 250 000 IDR for a day lounge and towel but you don't actually need to hire a day lounge to go here. You can use the pool and sit by the pool edge for free. If you want to, you can grab a bite to eat (the nacho's are massive and divine), or sip on a cocktail. &nbsp;Rama Village is a little secret swimming spot that I discovered for an absolute bargain! For 15 000 IDR you can use the pool, the pool lounges and you get a towel! This place is the best kept secret in Canggu!
-
-&nbsp;
+11am: Time for some sunshine! If you have a pool where you are staying, then lucky you! Enjoy! If not, there are many other options. Head down to Old Mans or Echo Beach and hire a lounge chair for the day for just 100 000 IDR! Finn's Beach Club cost 250 000 IDR for a day lounge and towel but you don't actually need to hire a day lounge to go here. You can use the pool and sit by the pool edge for free. If you want to, you can grab a bite to eat (the nacho's are massive and divine), or sip on a cocktail.  Rama Village is a little secret swimming spot that I discovered for an absolute bargain! For 15 000 IDR you can use the pool, the pool lounges and you get a towel! This place is the best kept secret in Canggu!
 
 3pm(ish): Hit the surf or have a nap. Seriously, it's a hard life in Canggu! I found the waves were easier to surf in the afternoon and I was able to get out with a longboard and enjoy some waves with other learners. Most days however, after getting too much sun and not enough water, I would return to my accommodation for an afternoon nap or siesta if you're Spanish!
 
@@ -51,8 +50,6 @@ From Denpasar International Airport it takes approximately 45 minutes to get to 
 How I got around:
 
 I cannot tell you how handy it was having my own scooter to get around. Canggu is not as busy as Kuta and Seminyak and as a novice at riding a scooter I felt quite confident and safe riding around the area. Canggu has three main roads each running up from one of the main beaches - Berawa, Old Man's and Echo. I hired a scooter for a month for 1.3 million IDR, but I met people who managed to hire for half of that price. 1 litre of fuel costs 10,000 IDR and it takes about 2 litres to fill the tank.
-
-&nbsp;
 
 Where I stayed:
 
