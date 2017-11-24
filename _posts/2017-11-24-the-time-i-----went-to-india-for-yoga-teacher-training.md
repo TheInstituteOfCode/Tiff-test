@@ -8,7 +8,7 @@ categories:
 description: >-
   When I decided I wanted to do my Yoga Teacher Training (YTT), I felt drawn to
   this mysterious country and Rishikesh in particular, the birth place of Yoga.
-image_path: /images/indiacover.jpg
+image_path: /uploads/Attachment-1-9.jpeg
 filter-class: India
 ---
 
