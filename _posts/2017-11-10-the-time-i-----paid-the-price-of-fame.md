@@ -5,7 +5,7 @@ tags:
 categories:
   - talks
 description: "When i told some people I was considering having some 'work' done, i was met with responses like 'but you are beautiful just as you are, why would you do that to yourself?' Read on to find out why I decided to get wrinkle relaxers and fillers in my face despite inevitable criticism,\_what\_each procedure involves and my views on it now."
-image_path: /images/famecover.jpg
+image_path: /uploads/Attachment-1-3.jpeg
 banner_image_path: /images/famecover.jpg
 heading: The Time I ... Paid the Price of Fame
 sub-heading: This is a really short sub-heading
