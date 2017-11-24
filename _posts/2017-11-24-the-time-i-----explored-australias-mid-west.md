@@ -2,6 +2,7 @@
 layout: post
 title: The Time I ... Explored Australia's Mid-West
 tags:
+  - Australia
 categories:
   - travel
 description: >-
