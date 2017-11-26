@@ -9,7 +9,7 @@ description: >-
   many Richards over the years and become familiar with their behaviours that I
   came up with a theory for identifying these men which I call the Richard
   Theory. But first let me introduce you to Richard.
-image_path: /uploads/Attachment-1-7.jpeg
+image_path: /uploads/Attachment-1-4.jpeg
 filter-class:
 ---
 
