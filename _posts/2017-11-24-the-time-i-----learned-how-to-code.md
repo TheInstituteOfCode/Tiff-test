@@ -1,23 +1,18 @@
 ---
-heading:
-sub-heading:
-banner_image_path:
+layout: post
 title: The Time I ... Learned How to Code
-description: "Learning how to code so I could build my own website was something I never thought would have been possible until I went to The Institute of Code. I knew I wanted to improve my existing website (hosted by Wordpress) and\_I wanted to eventually have the ability to make money through my website.\_I also had an idea of how I wanted my website to look, I just didn’t know that I would be the one to build it! Read on to find out how you too could learn to code at the Institute of Code!"
+tags:
+  - Australia
 categories:
   - talks
   - travel
   - featured
-tags:
+description: >-
+  "Learning how to code so I could build my own website was something I never thought would have been possible until I went to The Institute of Code. I knew I wanted to improve my existing website (hosted by Wordpress) and\_I wanted to eventually have the ability to make money through my website.\_I also had an idea of how I wanted my website to look, I just didn’t know that I would be the one to build it! Read on to find out how you too could learn to code at the Institute of Code!"
 image_path:
-contact-form: false
-_comments:
-  title: The page title for google
-  heading: This shows up on the main banner
-  banner_image_path: This is the big banner
-  image_path: this is the small image in the previews
+filter-class:
 ---
-
+---
 
 Learning how to code so I could build my own website was something I never thought would have been possible until I went to [The Institute of Code](http://www.instituteofcode.com/). I knew I wanted to improve my existing website (hosted by Wordpress) and I wanted to eventually have the ability to make money through my website. I also had an idea of how I wanted my website to look, I just didn’t know that I would be the one to build it! Read on to find out how you too could learn to code at the Institute of Code!
 
