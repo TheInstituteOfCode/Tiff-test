@@ -96,9 +96,14 @@ p {
    padding: 1;
 }
 
-.filter-image, .grid-image {
+.filter-image, {
   background-size:cover;
   padding-bottom: 55%;
+}
+
+.grid-image {
+  background-size:cover;
+  padding-bottom: 70%;
 }
 
 .post-blogimage {
