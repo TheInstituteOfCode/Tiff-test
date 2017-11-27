@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Time I ... Learned How to Code
+date: 2016-03-23
 tags:
   - Indonesia
 categories:
