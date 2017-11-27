@@ -20,8 +20,6 @@ filter-class:
 ---
 
 
----
-
 Learning how to code so I could build my own website was something I never thought would have been possible until I went to [The Institute of Code](http://www.instituteofcode.com/). I knew I wanted to improve my existing website (hosted by Wordpress) and I wanted to eventually have the ability to make money through my website. I also had an idea of how I wanted my website to look, I just didn’t know that I would be the one to build it! Read on to find out how you too could learn to code at the Institute of Code!
 
 I thought that building a website was something that only 'nerdy' guys who had studied coding for years could do. I started to look around for potential web designers and web developers and I soon realised that the cost of designing, building and maintaining my website was in the thousands. During my research I stumbled across the Institute of Code (IOC), a school based in Bali that ran a 10 day intensive coding course. The cost of the course (inclusive of accommodation at a luxury villa, all meals, transport and sight seeing) worked out to be such good value for money that I booked on to the next available course in September of this year. I’ve been asked many questions about the course since I attended so I thought it would be fitting that my first blog post on my new website be about my experience at IOC and how I came to build this website!
