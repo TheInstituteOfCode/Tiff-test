@@ -1,23 +1,16 @@
 ---
 layout: post
-title: The Time I ... Transformed my Body and Mind Using the Bikini Body Guide
+title: The Time I ... Transformed my Body and Mind with HIIT
 tags:
-  - 'Fitness,'
-  - 'Equipment,'
-  - Island
-  - Dubai
-  - Australia
 categories:
   - training
 description: "I learned how to effectively and efficiently complete a workout and maintain a healthy diet using\_Kayla Itsines BBG guides. The proof is in the pudding (which you can eat in moderation!) Read on if you would like to find out more about the program and my results."
-image_path: /images/kaylacover.jpg
+image_path: /uploads/bbgcover.jpeg
 filter-class:
 ---
 
 
-I’m not being paid in any way to endorse or sell Kayla Itsines Bikini Body Guide (she makes enough sales on her own!) but I cannot express enough how much I believe in her program and how it has helped me to transform my body. I learned how to effectively and efficiently complete a workout and maintain a healthy diet using her guides. The proof is in the pudding (which you can eat in moderation!) Read on if you would like to find out more about the program and my results.
-
-![](/uploads/versions/kayla7---x----601-527x---.jpg)
+A couple of years ago I was in a really unhappy place both physically and mentally. I felt like I was weak internally and so I decided to build strength from the outside in. I decided to focus of HIIT style training to minimise time and maximise results. I learned how to effectively and efficiently complete a workout and maintain a healthy diet during an 18 month period of strict training. The proof is in the pudding (which you can eat in moderation!) Read on if you would like to find out more about how I did it and my results.
 
 **Why I started:**
 
@@ -25,9 +18,9 @@ Working as an air hostess had it's perks, but weight gain was not one of them (y
 
 ![](/uploads/versions/kayla6---x----455-520x---.jpg)
 
-It was also a time in my life where i was feeling particularly vulnerable; I was finding my feet again having returned back home to Perth and I was dating Richard's (see my previous post) who I felt too weak to resist. I decided that if I couldn’t find the strength internally to protect myself, I would begin on the outside and work my way in.  With this double edged determination I went on the hunt for a fitness program.
+It was also a time in my life when I was feeling particularly vulnerable; I was finding my feet again having returned back home to Perth and I was dating Richard's (see my previous post) who I felt too weak to resist. I decided that if I couldn’t find the strength internally to protect myself, I would begin on the outside and work my way in. &nbsp;With this double edged determination I began researching the best way to get in shape.
 
-I stumbled across Kayla Itsines Bikini Body Guide (BBG) on Instagram and after seeing the transformation photo’s of other women I immediately went online and purchased a copy of the exercise Guide and Nutrition Guide for AUD 110 (Now the program is available as an app and she has released a cook book).
+I stumbled across the concept of High Intensity Interval Training (HIIT) on Instagram and after seeing the transformation photo’s of other women I immediately started looking at various HIIT workouts.
 
 **Points that I shouldn't have to state but I will anyway:**
 
@@ -43,11 +36,11 @@ I am 30 years old. I started this program when I was 28. I had 28 years to get t
 
 Ok now that I have made that clear, let's get back to my health and fitness journey!
 
-**What does a BBG workout look like?**
+**What does a HIIT workout look like?**
 
-The BBG program includes 12 weeks of 28 minute workouts which vary in intensity and have a polymeric focus (jump/explosive movements). Each week has 3 main workouts; Monday, Wednesday, Friday and introduces Sunday challenges after the first few weeks. The workout will either be legs, arms, abs or full body.
+A HIIT workout is usually a series of exercises that are performed in a set amount of time or have a set amount of reps, followed by a short break. These exercises are repeated for period of 30 to 45 minutes with the intention being that your body continues to burn fat for hours after you have finished the workout.&nbsp;
 
-**An example of a Legs Day:**
+**An example of a 30 minute Legs Day:**
 
 Set A - 10 x burpees, 15 x jump squats, 24 x walking lunges, 30 x jump lunges
 
@@ -61,19 +54,19 @@ Set A (7mins) - 30 sec rest - Set B (7mins) - 30 sec rest - Set A (7mins) - 30 s
 
 **A False Start:**
 
-Determined to fit back into my favourite summer shorts, I got started on the BBG program straight away which happened to be just before Christmas 2015. It was sooooooooooo hard. I mean I couldn't even do a single push up on my knees, skipping I had to do without a rope to start because I kept tripping on it, and burpees don't even get me started! My body ached all over after the first day but I learned to slow down the exercises so that I could master the technique and prevent injury rather than go all out too quickly. This meant sometimes I wouldn't complete all 4 exercises in the 7 minute round but that was ok because both my speed and strength each time. I completed maybe 3 weeks of the program before Christmas and New Years. Festive season however led to eating fairly unhealthy large meals and partying a lot (as you do during festive season right!!). I decided after i recovered from New Years that I would restart the program. This false start did actually help get my body into better form for when I started again. It also taught me that you can fall off the horse but just make sure you get back on it and the sooner you do, the easier it will be.
+Determined to fit back into my favourite summer shorts, I got started on HIIT training straight away which happened to be just before Christmas 2015. It was sooooooooooo hard. I mean I couldn't even do a single push up on my knees, skipping I had to do without a rope to start because I kept tripping on it, and burpees don't even get me started! My body ached all over after the first day but I learned to slow down the exercises so that I could master the technique and prevent injury rather than go all out too quickly. This meant sometimes I wouldn't complete all 4 exercises in the 7 minute round but that was ok because both my speed and strength each time. I completed maybe 3 weeks of the training before Christmas and New Years. Festive season however led to eating fairly unhealthy large meals and partying a lot (as you do during festive season right!!). I decided after i recovered from New Years that I would restart the program. This false start did actually help get my body into better form for when I started again. It also taught me that you can fall off the horse but just make sure you get back on it and the sooner you do, the easier it will be.
 
-**BBG1 Round 1:**
+**Starting again:**
 
-When I started the program for the second time, I began to notice results after the first 2 weeks. Taking progress photo’s was vital for motivating me to keep going and I wish I had taken more from the beginning of my journey. It was only by reflecting back on where i started that I could realise how far I had come. After the first month, I was hooked. BBG was part of my regular routine. I started with just the 3 days of BBG per week plus 1 day of yoga, but as my fitness improved, I added in running and BBG challenges on a Sunday. I registered for the HBF Run For a Reason determined to be able to run for the whole 12km which I did.
+When I started training for the second time, I began to notice results after the first 2 weeks. Taking progress photo’s was vital for motivating me to keep going and I wish I had taken more from the beginning of my journey. It was only by reflecting back on where i started that I could realise how far I had come. After the first month, I was hooked, it became part of my regular routine. I started with just 3 days of HIIT per week plus 1 day of yoga, but as my fitness improved, I added in running and HIIT on a Sunday. I registered for the HBF Run For a Reason determined to be able to run for the whole 12km which I did.
 
-I was working out almost every day and I felt so proud after completing the 12 week BBG program. Physically the changes were obvious, but mentally I had also changed. I was more confident, I was able to stand up for myself, and I felt like I knew what I deserved and what I wanted and would not settle for anything less. In fact I stopped dating all together for a period of over 6 months. For someone who is prone to anxiety and depression, the way BBG made me feel was absolutely invaluable.
+I was working out almost every day and I felt so proud after completing 3 months. Physically the changes were obvious, but mentally I had also changed. I was more confident, I was able to stand up for myself, and I felt like I knew what I deserved and what I wanted and would not settle for anything less. In fact I stopped dating all together for a period of over 6 months. For someone who is prone to anxiety and depression, the way training made me feel was absolutely invaluable.
 
 ![](/uploads/versions/Kayla4---x----603-524x---.jpg)My 12 week progress photos
 
 **A change in diet:**
 
-My physical and mental transformation was not all about exercise, in fact I would say that 70% or more of the results I achieved came from a change in my diet. I had a good read of Kayla’s Nutrition Guide but I chose to use it more to educate myself on making healthy food choices rather than to follow it verbatim. It does have some great recipes but I don’t like the idea of sticking to a meal plan especially one that doesn’t include some of my favourite foods! Prior to BBG I used to eat pretty much whatever I wanted, whenever I wanted and however much I wanted. So changing my diet was a very big adjustment for me. The changes I made were:
+My physical and mental transformation was not all about exercise, in fact I would say that 70% or more of the results I achieved came from a change in my diet. I had a good read of various nutrition guides but I chose to use them more to educate myself on making healthy food choices rather than to follow it verbatim. It does have some great recipes but I don’t like the idea of sticking to a meal plan especially one that doesn’t include some of my favourite foods! Prior to training I used to eat pretty much whatever I wanted, whenever I wanted and however much I wanted. So changing my diet was a very big adjustment for me. The changes I made were:
 
 * minimise or cut out alcohol
 * no simple carbs (white rice, pasta, potatoes, white bread)
@@ -97,7 +90,7 @@ At this point I had very low body fat percentage so the only progress I could ma
 
 **Where I'm at today**
 
-After completing BBG1 three times and completing BB2 twice, I stopped keeping count of how many times I completed the program. Eventually I stopped repeating program and started mixing up the workouts. I know all the exercises in both guides and I can put together my own 28 minute workout without any reference. I do a range of different types of exercises now too, pilates, running, yoga, weights, and most recently LA Fit using a megaformer! I'm enjoying exercising again and I'm enjoying a varied (but still mostly healthy) diet. The hardest part was definitely getting to a point that I felt comfortable at and now I am enjoying the rewards.
+I no longer need to research workouts in order to know what training to do. I can put together my own 28 minute workout without any reference. I do a range of different types of exercises now too, pilates, running, yoga, weights, and most recently LA Fit using a megaformer! I'm enjoying exercising again and I'm enjoying a varied (but still mostly healthy) diet. The hardest part was definitely getting to a point that I felt comfortable at and now I am enjoying the rewards.
 
 ![](/uploads/versions/kayla1---x----599-528x---.jpg)left taken January 2015, right taken April 2017
 
