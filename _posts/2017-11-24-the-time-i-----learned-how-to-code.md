@@ -10,8 +10,8 @@ categories:
 description: >-
   Learning how to code so I could build my own website was something I never
   thought would have been possible until I went to The Institute of Code. I knew
-  I wanted to improve my existing website (hosted by Wordpress) and\_I wanted to
-  eventually have the ability to make money through my website.\_I also had an
+  I wanted to improve my existing website (hosted by Wordpress) and I wanted to
+  eventually have the ability to make money through my website. I also had an
   idea of how I wanted my website to look, I just didn’t know that I would be
   the one to build it! Read on to find out how you too could learn to code at
   the Institute of Code!
