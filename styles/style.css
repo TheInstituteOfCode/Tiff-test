@@ -181,11 +181,6 @@ p {
   display:none;
   text-align:left;
 }
-.dropdownboxmob {
-  position:absolute;
-  display:none;
-  text-align:center;
-}
 
 .dropdownbox a {
   display: block;
@@ -401,6 +396,13 @@ header {
   min-height: 6em;
 }
 
+.tiffanytalks, .tiffanytravels {
+    color: #f1ebeb;
+}
+
+.tiffanyalks section, .tiffanytravels section {
+    color: #3c3c41;
+}
 /*styling on tiffany trains blog page*/
 
 .tiffanytrains {
