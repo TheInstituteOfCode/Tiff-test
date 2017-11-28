@@ -20,7 +20,7 @@ header, footer, section {
 }
 
 .header {
-  padding-top: 5%;
+  padding-top: 10%;
 }
 
 section {
@@ -400,6 +400,10 @@ header {
 
 .tiffanytrains {
   color: #f1ebeb;
+}
+
+.tiffanytrains section {
+    color: #415f44;
 }
 
 /*styling on testimonial circles*/
