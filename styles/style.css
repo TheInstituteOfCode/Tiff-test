@@ -383,6 +383,12 @@ header {
   min-height: 6em;
 }
 
+/*styling on tiffany trains blog page*/
+
+.tiffanytrains h3, p, a {
+  color: #f1ebeb;
+}
+
 /*styling on testimonial circles*/
 .testimonials {
   background-color: rgb(245,245,245);
