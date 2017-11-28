@@ -168,6 +168,14 @@ p {
   text-align:left;
 }
 
+.dropdownfindermob {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(60,60,60);
+  padding:0;
+  text-align:right;
+}
+
 .dropdownbox {
   position:absolute;
   display:none;
