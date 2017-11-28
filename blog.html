@@ -83,10 +83,10 @@ banner_image_path: /images/blogcover.jpg
 
     <section class="bp trainsblog grid">
 
-  
+      <div>
       <a href="/tiffanytrains"><h2 class="col-12">Tiffany Trains</h2></a>
       {% for post in site.categories.training limit:3 %}
-
+    </div>
         <!-- stuff that you want to repeat for each post -->
         <div class="bp col-4_xs-12">
           <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
