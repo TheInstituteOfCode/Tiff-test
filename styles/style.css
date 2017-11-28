@@ -396,11 +396,11 @@ header {
   min-height: 6em;
 }
 
-.tiffanytalks {
+.tiffanytalks, .tiffanytravels {
     color: #f1ebeb;
 }
 
-.tiffanyalks section {
+.tiffanyalks section, .tiffanytravels section {
     color: #3c3c41;
 }
 /*styling on tiffany trains blog page*/
