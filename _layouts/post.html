@@ -9,7 +9,7 @@ Title: Blogpost
     <div>
       <h3>About Me</h3>
       <p>
-        This is a litte about me and where I write a little blurb about me. To find out more you will need to click on the read more button.
+        Hello! I am Tiffany the experience junkie/girl boss/odd ball behind this website. If you would to know more about who I am and what I do please click the link below!
       </p>
       <a href="/about" class="button">Read more</a>
     </div>
@@ -18,18 +18,18 @@ Title: Blogpost
       <h3>Featured Blog Post</h3>
 
         {% for post in site.categories.featured %}
-    
+
         <!-- stuff that you want to repeat for each post -->
         <a href="{{post.url}}">
           <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
           </div>
           <h4> {{post.title}}</h4>
          </a>
-       
-    
+
+
         {% endfor %}
-        
-        
+
+
     </div>
 
     <!--<div class="featuredtrainingvideos">-->
@@ -43,11 +43,11 @@ Title: Blogpost
 
     <div id="blogpost" class="col-9">
       <h2>{{page.title}}</h2>
-        
+
       <!--{% for tag in page.tags %}-->
       <!--<tag>{{tag}}</tag>-->
       <!--{% endfor %}-->
-      
+
       <div>
         <img src="{{page.image_path}}" />
       </div>
