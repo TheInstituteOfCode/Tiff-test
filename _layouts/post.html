@@ -4,42 +4,6 @@ Title: Blogpost
 ---
 <section class="postpage grid">
 
-  <div id="sidebar" class="col-3_sm-12">
-
-    <div>
-      <h3>About Me</h3>
-      <p>
-        Hello! I am Tiffany, the experience junkie/ girl boss/ odd ball behind this website. If you would to know more about who I am and what I do please click the link below!
-      </p>
-      <a href="/about" class="button">Read more</a>
-    </div>
-
-    <div class="featuredblogposts">
-      <h3>Featured Blog Post</h3>
-
-        {% for post in site.categories.featured %}
-
-        <!-- stuff that you want to repeat for each post -->
-        <a href="{{post.url}}">
-          <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
-          </div>
-          <h4> {{post.title}}</h4>
-         </a>
-
-
-        {% endfor %}
-
-
-    </div>
-
-    <!--<div class="featuredtrainingvideos">-->
-    <!--  <h3>Featured Training Videos</h3>-->
-    <!--    <div>-->
-    <!--      <h4>Training Video 1</h4>-->
-    <!--      <img src="/images/placeholder.jpg" />-->
-    <!--    </div>-->
-    <!--</div>-->
-  </div>
 
     <div id="blogpost" class="col-9_sm-12">
       <h2>{{page.title}}</h2>
@@ -61,5 +25,42 @@ Title: Blogpost
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
+    </div>
+
+    <div id="sidebar" class="col-3_sm-12">
+
+      <div>
+        <h3>About Me</h3>
+        <p>
+          Hello! I am Tiffany, the experience junkie/ girl boss/ odd ball behind this website. If you would to know more about who I am and what I do please click the link below!
+        </p>
+        <a href="/about" class="button">Read more</a>
+      </div>
+
+      <div class="featuredblogposts">
+        <h3>Featured Blog Post</h3>
+
+          {% for post in site.categories.featured %}
+
+          <!-- stuff that you want to repeat for each post -->
+          <a href="{{post.url}}">
+            <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
+            </div>
+            <h4> {{post.title}}</h4>
+           </a>
+
+
+          {% endfor %}
+
+
+      </div>
+
+      <!--<div class="featuredtrainingvideos">-->
+      <!--  <h3>Featured Training Videos</h3>-->
+      <!--    <div>-->
+      <!--      <h4>Training Video 1</h4>-->
+      <!--      <img src="/images/placeholder.jpg" />-->
+      <!--    </div>-->
+      <!--</div>-->
     </div>
 </section>
