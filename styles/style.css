@@ -385,7 +385,7 @@ header {
 
 /*styling on tiffany trains blog page*/
 
-.tiffanytrains .logo .menu h3, p, h1 {
+.tiffanytrains .menu a, h2, p, h1 {
   color: #f1ebeb;
 }
 
