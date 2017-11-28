@@ -114,7 +114,7 @@ p {
   padding-bottom: 100%;
   background-size:cover;
   background-position: center;
-  min-height: 100px;
+  min-height: 175px;
 }
 
 .background-image {
@@ -182,6 +182,12 @@ p {
   text-align:left;
 }
 
+.dropdownboxmob {
+  position:absolute;
+  display:none;
+  text-align: center;
+}
+
 .dropdownbox a {
   display: block;
 }
@@ -189,7 +195,9 @@ p {
 .dropdownfinder:hover .dropdownbox {
   display:block;
 }
-
+.dropdownfindermob:hover .dropdownboxmob {
+  display:block;
+}
 .hidden {
   display:none !important;
 }
