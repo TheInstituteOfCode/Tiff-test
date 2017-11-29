@@ -8,6 +8,7 @@ categories:
   - talks
   - travel
   - featured
+  - training
 description: >-
   Learning how to code so I could build my own website was something I never
   thought would have been possible until I went to The Institute of Code. I knew
