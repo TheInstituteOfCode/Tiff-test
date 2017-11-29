@@ -47,22 +47,19 @@ banner_image_path: /images/blogcover.jpg
 
 <section class="bp talksblog">
 
-    <a href="/tiffanytalks"><h2>Tiffany Talks</h2></a>
-  {% for post in site.categories.talks limit:3 %}
+  <a href="/tiffanytalks"><h2>Tiffany Talks</h2></a>
 
+  <div class="grid">
+    {% for post in site.categories.talks limit:3 %}
     <!-- stuff that you want to repeat for each post -->
-    <div class="grid">
-    <div class="bp col-4_xs-12">
+    <div class="bp col-4_sm-12">
       <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
       </div>
       <h3> {{post.title}}</h3>
       <p>{{ post.excerpt | truncatewords:40 }}</p>
       <a href="{{post.url}}">Read More</a>
     </div>
-    </div>
-
     {% endfor %}
-
   </section>
 
   <section class="bp travelsblog">
