@@ -70,7 +70,7 @@ banner_image_path: /images/blogcover.jpg
     <a href="/tiffanytravels"><h2>Tiffany Travels</h2></a>
 
     <div class="grid">
-      {% for post in site.categories.travels limit:3 %}
+      {% for post in site.categories.travel limit:3 %}
       <!-- stuff that you want to repeat for each post -->
       <div class="bp col-4_sm-12">
         <div class="post-blogimage" style="background-image:url('{{post.image_path}}')">
