@@ -81,13 +81,15 @@ banner_image_path: /images/blogcover.jpg
 
     </section>
 
-    <section>
+    <section class="bp trainsblog">
+
+
 
       <a href="/tiffanytrains"><h2>Tiffany Trains</h2></a>
 
 
       {% for post in site.categories.training limit:3 %}
-      <div class="bp trainsblog grid">
+      <div class="grid">
 
         <!-- stuff that you want to repeat for each post -->
         <div class="bp col-4_sm-12">
@@ -97,7 +99,5 @@ banner_image_path: /images/blogcover.jpg
           <p>{{ post.excerpt | truncatewords:40 }}</p>
           <a href="{{post.url}}">Read More</a>
         </div>
-        </div>
         {% endfor %}
-      </section>
 </section>
