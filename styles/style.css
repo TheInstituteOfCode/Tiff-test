@@ -483,6 +483,7 @@ section.postpage {
 
 #sidebar a{
     text-decoration:none;
+    color: inherit;
 }
 #sidebar {
     padding: 0 2%;
