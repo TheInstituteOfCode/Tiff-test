@@ -258,6 +258,11 @@ header p {
   font-size: 30px;
 }
 
+.big-banner.light-text,
+.big-banner.light-text .menu a {
+    color: rgb(245,245,245);
+}
+
 
 /* Small banner header */
 
