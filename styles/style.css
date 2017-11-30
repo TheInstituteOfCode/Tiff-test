@@ -408,22 +408,22 @@ header {
   min-height: 6em;
 }
 
-.tiffanytalks, .tiffanytravels {
-    color: #f1ebeb;
-}
+/*.tiffanytalks, .tiffanytravels {*/
+/*    color: #f1ebeb;*/
+/*}*/
 
-.tiffanyalks section, .tiffanytravels section {
-    color: #3c3c41;
-}
+/*.tiffanyalks section, .tiffanytravels section {*/
+/*    color: #3c3c41;*/
+/*}*/
 /*styling on tiffany trains blog page*/
 
-.tiffanytrains {
-  color: #f1ebeb;
-}
+/*.tiffanytrains {*/
+/*  color: #f1ebeb;*/
+/*}*/
 
-.tiffanytrains section {
-    color: #415f44;
-}
+/*.tiffanytrains section {*/
+/*    color: #415f44;*/
+/*}*/
 
 /*styling on testimonial circles*/
 .testimonials {
