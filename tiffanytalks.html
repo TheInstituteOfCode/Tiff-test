@@ -9,17 +9,14 @@ heading: Tiffany Talks
 sub-heading: Free the Mind
 banner_image_path: /images/tiffanytalkscover.jpg
 ---
-
-<section>
-
-<div class="grey">
+<section class="grey">
   <h2>On my mind</h2>
   <p>
     Tiffany Talks is all about experiences I have had and lessons I have learned. Here is where I share my stuggles with mental health, dating disasters, the numerous careers paths I've had, beauty tips, growing up, getting older, educational experiences, choices I've made, opportunities I've had and much more. If there is a particular topic you would like me to discuss, please send me an email, I am always happy to discuss! If you are interested in having me talk about any of my experiences as a guest speaker, please have a look at my
     <a href="/workwithme">Work With Me page.</a>
   </p>
-</div>
-  <div class="grid pink">
+</section>
+  <section class="grid pink">
     <h2 class="col-12">Related Blog Posts</h2>
       {% for post in site.categories.talks %}
 
@@ -30,7 +27,6 @@ banner_image_path: /images/tiffanytalkscover.jpg
           <h3> {{post.title}}</h3>
           <p>{{ post.excerpt | truncatewords:40 }}</p>
           <a href="{{post.url}}">Read More</a>
-        </div>
 
         {% endfor %}
     </div>
