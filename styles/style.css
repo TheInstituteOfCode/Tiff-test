@@ -466,6 +466,12 @@ section.postpage {
     line-height:1.5;
 }
 
+#blogpost h3 {
+    text-align:left;
+    font-size: 1.4rem;
+    font-weight:normal;
+}
+
 #blogpost a {
     text-decoration: none;
     padding-bottom:0.1rem;
