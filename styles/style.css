@@ -68,6 +68,7 @@ h4 {
   margin: 0.5em 0;
   line-height: 1.2;
   text-align: center;
+  font-weight: bold;
 }
 
 p {
@@ -513,7 +514,7 @@ section.postpage {
   margin-bottom: 5%;
 }
 
-/* Discus comments */ 
+/* Discus comments */
 #comment-policy {
     display: none;
 }
