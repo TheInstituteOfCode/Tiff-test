@@ -494,6 +494,9 @@ section.postpage {
     text-align:left;
     font-size: 1.5rem;
 }
+#sidebar .post-blogimage {
+    padding-bottom: 60%;
+}
 #sidebar div {
   background-color: white;
   margin: 0 0 1rem;
