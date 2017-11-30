@@ -466,6 +466,13 @@ section.postpage {
     line-height:1.5;
 }
 
+#blogpost a {
+    text-decoration: none;
+    padding-bottom:0.1rem;
+    border-bottom: 1px solid #c71585;
+    color: #c71585;
+}
+
 #sidebar {
     padding: 0 2%;
 }
