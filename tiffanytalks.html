@@ -18,9 +18,8 @@ banner_image_path: /images/tiffanytalkscover.jpg
     <a href="/workwithme">Work With Me page.</a>
   </p>
 
-    <section id="relatedblogposts" class="grid">
-
-      <h2 class="col-12">Related Blog Posts</h2>
+  <div class="grid pink">
+    <h2 class="col-12">Related Blog Posts</h2>
       {% for post in site.categories.talks %}
 
         <!-- stuff that you want to repeat for each post -->
@@ -30,7 +29,7 @@ banner_image_path: /images/tiffanytalkscover.jpg
           <h3> {{post.title}}</h3>
           <p>{{ post.excerpt | truncatewords:40 }}</p>
           <a href="{{post.url}}">Read More</a>
-      </section>
+        </div>
 
         {% endfor %}
     </div>
