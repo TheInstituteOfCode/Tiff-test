@@ -440,6 +440,11 @@ header {
   height: 145px;
   margin: auto;
 }
+.testimonial-image {
+  width: 145px;
+  height: 145px;
+  margin: auto;
+}
 
 /*styling on blog post*/
 section.postpage {
