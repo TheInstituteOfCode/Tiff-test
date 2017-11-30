@@ -9,12 +9,12 @@
 
     {% if page.big-banner %}
     
-    <header class="big-banner " style="background-image:url('{{page.banner_image_path}}');">
+    <header class="big-banner  {% if page.banner-light-text %} light-text {% endif %}" style="background-image:url('{{page.banner_image_path}}');">
     
     {% include nav.html %}
     
     <div class="header grid-center">
-        <h1 class="col-8">{{page.heading}} {% if page.banner-light-text %} light-text {% endif %} </h1>
+        <h1 class="col-8">{{page.heading}} </h1>
         <div class="col-4"></div>
         <p class="col-8">{{page.sub-heading}}</p>
         <div class="col-4"></div>
