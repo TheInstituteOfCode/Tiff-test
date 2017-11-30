@@ -482,6 +482,7 @@ section.postpage {
 
 #sidebar {
     padding: 0 2%;
+    text-decoration:none;
 }
 #sidebar div {
   background-color: white;
