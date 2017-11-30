@@ -445,12 +445,11 @@ header {
   width: 145px;
   height: 145px;
   margin: auto;
+  background-size: contain;
+ background-repeat: no-repeat;
+ background-color: white;
 }
-.testimonial-image {
-  width: 145px;
-  height: 145px;
-  margin: auto;
-}
+
 
 /*styling on blog post*/
 section.postpage {
