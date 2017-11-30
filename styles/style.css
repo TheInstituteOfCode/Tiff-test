@@ -455,6 +455,15 @@ header {
 /*styling on blog post*/
 section.postpage {
   background-color: rgb(250,240,241);
+  padding: 2% 3%;
+}
+#blogpost h2 {
+    font-weight:normal;
+    text-align: left;
+}
+
+#blogpost p {
+    line-height:1.5;
 }
 
 #sidebar {
