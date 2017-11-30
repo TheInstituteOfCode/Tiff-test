@@ -473,6 +473,13 @@ section.postpage {
     color: #c71585;
 }
 
+#blogpost img {
+    margin: 1rem 0;
+}
+#blogpost ul {
+    list-style: inside;
+}
+
 #sidebar {
     padding: 0 2%;
 }
@@ -486,6 +493,10 @@ section.postpage {
   margin-bottom: 5%;
 }
 
+/* Discus comments */ 
+#comment-policy {
+    display: none;
+}
 /*styling on contacts*/
 
 footer#subscribe {
