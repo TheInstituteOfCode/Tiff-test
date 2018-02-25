@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: 
 sub-heading: 
 banner_image_path: 
