@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: 10 things they didn't you on The Bachelor Winter Games
 sub-heading:
 banner_image_path: /uploads/thebachelorwintergames13.jpg
