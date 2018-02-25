@@ -1,11 +1,13 @@
 ---
-heading:
+heading: 10 things they didn't show you on The Bachelor Winter Games
 sub-heading:
-banner_image_path:
+banner_image_path: /uploads/thebachelorwintergames13.jpg
 title: 10 things they didn't show you on The Bachelor Winter Games
-description:
+description: "The mushy and gushy stuff aside, there were some seriously QUALITY moments in the house that just did not fuel the drama or the romance and so were never shown, so I wanted to share with you\_these 10\_moments that never made it to your screens:"
 categories:
+  - talks
 tags:
+  - The Bachelor
 image_path:
 contact-form: false
 _comments:
@@ -17,7 +19,7 @@ _comments:
 
 If you don’t know by now that reality TV is a highly edited version of events then you have been living in a soap opera bubble. I can tell you right now that what you saw on The Bachelor Winter Games was only a sliver of what went on and even that sliver is edited to follow certain storylines. On a four episode show that is about love and dramatics, there is no room for the storylines of those who didn’t find it.
 
-The mushy and gushy stuff aside, there were some seriously QUALITY moments in the house that just did not fuel to the drama or the romance and so were never shown, so I wanted to share with you my top 5 moments that never made it to your screens:
+The mushy and gushy stuff aside, there were some seriously QUALITY moments in the house that just did not fuel the drama or the romance and so were never shown, so I wanted to share with you these 10 moments that never made it to your screens:
 
 ### Ben Higgins gives orgasmic massages
 
