@@ -8,8 +8,8 @@ categories:
   - talks
 tags:
   - The Bachelor
-image_path:
-contact-form: false
+image_path: /uploads/thebachelorwintergames5.jpg
+contact-form: true
 _comments:
   title: The page title for google
   heading: This shows up on the main banner
