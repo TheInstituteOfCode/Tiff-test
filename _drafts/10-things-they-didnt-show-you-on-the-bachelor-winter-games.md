@@ -1,8 +1,8 @@
 ---
-heading: 10 things they didn't show you on The Bachelor Winter Games
+heading: 10 things they didn't you on The Bachelor Winter Games
 sub-heading:
 banner_image_path: /uploads/thebachelorwintergames13.jpg
-title: 10 things they didn't show you on The Bachelor Winter Games
+title: 10 things they didn't show on The Bachelor Winter Games
 description: "The mushy and gushy stuff aside, there were some seriously QUALITY moments in the house that just did not fuel the drama or the romance and so were never shown, so I wanted to share with you\_these 10\_moments that never made it to your screens:"
 categories:
   - talks
