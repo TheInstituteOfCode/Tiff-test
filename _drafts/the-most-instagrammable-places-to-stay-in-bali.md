@@ -3,7 +3,7 @@ layout: post
 heading:
 sub-heading:
 banner_image_path:
-title: The most Instagrammable Places to stay in Bali
+title: The Most Instagrammable Places to Stay in Bali
 description:
 categories:
 tags:
@@ -15,3 +15,4 @@ _comments:
   banner_image_path: This is the big banner
   image_path: this is the small image in the previews
 ---
+
