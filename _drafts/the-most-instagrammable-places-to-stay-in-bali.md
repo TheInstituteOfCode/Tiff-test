@@ -2,7 +2,7 @@
 layout: post
 heading:
 sub-heading:
-banner_image_path: /images/aboutme4.jpg
+banner_image_path: /uploads/balihotels-23.jpg
 title: The Most Instagrammable Places to Stay in Bali
 description: >-
   Choosing where to stay in Bali is hard. Choosing where to stay when you want
@@ -11,7 +11,7 @@ description: >-
   have put together a list of the most Instagrammable places to stay in Bali!
 categories:
 tags:
-image_path: /uploads/balihotels-25.jpg
+image_path: /uploads/balihotels-23.jpg
 contact-form: false
 _comments:
   title: The page title for google
@@ -28,7 +28,19 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### Where to book it:
 
-&nbsp;
+&nbsp;<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1525205">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 ##### Sleeps: 21 rooms, 2 guests per room.&nbsp;
 
