@@ -26,12 +26,14 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### Location: Canggu
 
-##### Where to book it:
+##### Sleeps: 21 rooms, 2 guests per room.&nbsp;
 
-&nbsp;<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1525205">Booking.com</a>
-</ins>
+##### Cost: High
+
+##### Where to book it:<br>
+
+<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;lang=en-AU&amp;aid=1525205&amp;target_aid=1525205&amp;ss_id=254177&amp;ss_type=hotel&amp;df_num_properties=3&amp;fid=1525764845955&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1525205__1525764845955" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -42,19 +44,17 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
 
-##### Sleeps: 21 rooms, 2 guests per room.&nbsp;
-
-##### Cost: High
-
-&nbsp;
+##### &nbsp;
 
 ##### The Instagram shot(s)
 
-The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate so if my pictures impress you, then you should definitely check it out in real life. I had to walk around the property 3 times just to take it all in!
+The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight.
+
+![](/uploads/balihotels-35.jpg)
 
 ##### What's around
 
-Located straight off the main street of Canggu, this sanctuary is a hidden gem!
+Located straight off the main street of Canggu, this sanctuary is a hidden gem! Directly across the road from the beach and both The Lawn and Old Mans (popular bars and eateries in Canggu) you will not find a better located hotel in the area. There are plenty of shops, cafes and beauty spas nearby as well. The 3 storey restaurant "Ji" attached to the hotel has uninterrupted ocean views and serves the best Japanese cuisine in Bali!&nbsp;
 
 ##### My experience
 
