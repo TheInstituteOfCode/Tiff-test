@@ -97,9 +97,10 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 ##### Cost: Very High
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527166&amp;target_aid=1527166&amp;ss_id=362459&amp;ss_type=hotel&amp;fid=1526014977668&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527166__1526014977668" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
-
+<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527166">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -109,7 +110,6 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
 ##### The Instagram shot(s)
 
 The most instagrammable shots at this villa would be the pool (from either end depending on lighting), the master bedroom with is high ceilings, and interesting bed frame, the outdoor bathtubs, and my favourite; the outdoor cabana with billowing white drapes. I had 2 photoshoots there; 1 in the morning and 1 in the evening and both presented many nicely lit areas to shoot in.&nbsp;
@@ -193,9 +193,10 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 ##### Cost: Moderate
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527175&amp;target_aid=1527175&amp;ss_id=354729&amp;ss_type=hotel&amp;fid=1526015591197&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527175__1526015591197" data-responsive="true"></iframe></ins>
-
+<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527175">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -205,7 +206,6 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
 ##### The Instagram shot(s):
 
 Mundok is most well known for the epic mountain view from the Infinity pool. If you are lucky enough to have the right amount of clouds, the sunset is mind blowing! The only down side to such a spectacular shot is that everyone else also wants it! Luckily you can still get an amazing picture midday like I did and if taken at the right angle it looks like you are in the clouds! Some of the villas have private infinity pools so you don’t even have to worry about other people!&nbsp;
@@ -261,9 +261,10 @@ Entering through the double doored, double entrance I found myself in a very mod
 ##### Cost: High
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527171&amp;target_aid=1527171&amp;ss_id=1641034&amp;ss_type=hotel&amp;fid=1526014977672&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527171__1526014977672" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
-
+<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527171">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -273,7 +274,6 @@ Entering through the double doored, double entrance I found myself in a very mod
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
 ##### The Instagram shot(s):
 
 The reason I wanted to stay here was for a photo at the resort pool lined with statues that lead down onto the beach. When I arrived I realised there were plenty of other great photo locations; the hotel bathrooms, the lobby stairwell, the wedding venues, the bar area. It is worth noting that guests are not allowed to use professional cameras on the premises without special permission.&nbsp;
@@ -329,9 +329,10 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 ##### Cost: Low
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527172&amp;target_aid=1527172&amp;ss_id=569990&amp;ss_type=hotel&amp;fid=1526014977673&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527172__1526014977673" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
-
+<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527172">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -341,7 +342,6 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
 ##### The Instagram shot(s):
 
 These blue and white bungalows are a favourite amongst Instagrammers and it is definitely a cute photo that you can get without having to stay here (slightly annoying for the paying guests though I am sure!) The pool and bar area is also great for photos, especially at sunset with the location of this hotel presenting an amazing view of the sun setting and gorgeous lighting.&nbsp;
