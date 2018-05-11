@@ -102,6 +102,12 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 
 The most instagrammable shots at this villa would be the pool (from either end depending on lighting), the master bedroom with is high ceilings, and interesting bed frame, the outdoor bathtubs, and my favourite; the outdoor cabana with billowing white drapes. I had 2 photoshoots there; 1 in the morning and 1 in the evening and both presented many nicely lit areas to shoot in.&nbsp;
 
+![](/uploads/balihotels-9.jpg)
+
+##### ![](/uploads/balihotels-7.jpg)
+
+##### ![](/uploads/balihotels-10.jpg)
+
 ##### What’s around?
 
 Location wise this is a about 15minutes from Canggu main area, despite looking closer on a map, because of the way the roads are set out. There is not a hell of a lot within walking distance but the area is becoming more popular and developed so this may change. The closest beach is Pererenan which is a 15 minute walk or 5 minute drive.&nbsp;
