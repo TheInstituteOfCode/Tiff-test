@@ -30,15 +30,15 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ## Tugu Hotel and Spa
 
-#### Location: Canggu
+### Location: Canggu
 
-#### Sleeps: 21 rooms, 2 guests per room.&nbsp;
+### Sleeps: 21 rooms, 2 guests per room.&nbsp;
 
-#### Cost: High
+### Cost: High
 
-#### Where to book it:&nbsp;[book here](http://www.booking.com/hotel/id/tugu-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+### Where to book it:&nbsp;[book here](http://www.booking.com/hotel/id/tugu-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
-#### The Instagram Shot(s):
+### The Instagram Shot(s):
 
 <script type="text/javascript">
     (function(d, sc, u) {
