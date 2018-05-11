@@ -243,11 +243,11 @@ Entering through the double doored, double entrance I found myself in a very mod
 
 The reason I wanted to stay here was for a photo at the resort pool lined with statues that lead down onto the beach. When I arrived I realised there were plenty of other great photo locations; the hotel bathrooms, the lobby stairwell, the wedding venues, the bar area. It is worth noting that guests are not allowed to use professional cameras on the premises without special permission.&nbsp;
 
-![](/uploads/balihotels-54.jpg)
+![](/uploads/balihotels-66.jpg)
 
-##### ![](/uploads/balihotels-52.jpg)
+##### ![](/uploads/balihotels-79.jpg)
 
-##### ![](/uploads/balihotels-58.jpg)
+##### ![](/uploads/balihotels-73.jpg)
 
 ##### What’s around?
 
@@ -270,6 +270,11 @@ While I prefer to stay in Villa’s as opposed to hotels or resorts, this really
 ##### The Instagram shot(s):
 
 The walls around the villa are covered in climbing vines which make for an awesome back drop, especially around the pool area. The beds make for a clean image in the morning light and the outside of wooden villa is also a popular shot. If you want to get a bit artsy you can lower the sun shades for the common area in the morning and get some streaky lighting coming in for a nice effect.&nbsp;
+![](/uploads/balihotels-90.jpg)
+
+##### ![](/uploads/balihotels-91.jpg)
+
+##### ![](/uploads/balihotels-92.jpg)
 
 ##### What’s around?
 
@@ -292,6 +297,11 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 ##### The Instagram shot(s):
 
 These blue and white bungalows are a favourite amongst Instagrammers and it is definitely a cute photo that you can get without having to stay here (slightly annoying for the paying guests though I am sure!) The pool and bar area is also great for photos, especially at sunset with the location of this hotel presenting an amazing view of the sun setting and gorgeous lighting.&nbsp;
+![](/uploads/balihotels-43.jpg)
+
+##### ![](/uploads/balihotels-45.jpg)
+
+##### ![](/uploads/balihotels-49.jpg)
 
 ##### What’s around?
 
