@@ -10,7 +10,11 @@ description: >-
   research, many emails, and double booking myself on more than 1 occasion; I
   have put together a list of the most Instagrammable places to stay in Bali!
 categories:
+  - travel
+  - featured
 tags:
+  - Indonesia
+  - 'Travel,'
 image_path: /uploads/balihotels-23.jpg
 contact-form: false
 _comments:
