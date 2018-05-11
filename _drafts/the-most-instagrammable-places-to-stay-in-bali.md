@@ -68,7 +68,7 @@ As soon as you enter the lobby area of Tugu, you know you have stumbled upon som
 
 ##### Cost: Moderate
 
-##### Where to book:&nbsp;
+##### Where to book: [Airbnb Villa Dragonfly](https://www.airbnb.com.au/rooms/17753866){: target="_blank"}
 
 ##### The Instagram shot(s):
 
@@ -97,10 +97,9 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 ##### Cost: Very High
 
 ##### Where to book it:
-<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1527166">Booking.com</a>
-</ins>
+
+<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527166&amp;target_aid=1527166&amp;ss_id=362459&amp;ss_type=hotel&amp;fid=1526014977668&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527166__1526014977668" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -137,7 +136,7 @@ This luxury villa was an absolute treat to stay at and Villa Manager Hendra was 
 
 ##### Cost: Low&nbsp;
 
-##### Where to book it: Airbnb
+##### Where to book it: [New Earth Haven website](https://newearthhaven.com/bali/){: target="_blank"}
 
 ##### The Instagram shot(s):
 
@@ -165,7 +164,7 @@ A picture that I found on Instagram of the inside of the bamboo dome attracted m
 
 ##### Cost: Low
 
-##### Where to book it: Airbnb
+##### Where to book it: [Airbnb Hideout Lightroom](https://www.airbnb.com.au/rooms/18761574){: target="_blank"}
 
 ##### The Instagram shot(s):
 
@@ -250,10 +249,9 @@ Entering through the double doored, double entrance I found myself in a very mod
 ##### Cost: High
 
 ##### Where to book it:
-<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1527171">Booking.com</a>
-</ins>
+
+<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527171&amp;target_aid=1527171&amp;ss_id=1641034&amp;ss_type=hotel&amp;fid=1526014977672&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527171__1526014977672" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -319,10 +317,9 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 ##### Cost: Low
 
 ##### Where to book it:
-<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1527172">Booking.com</a>
-</ins>
+
+<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527172&amp;target_aid=1527172&amp;ss_id=569990&amp;ss_type=hotel&amp;fid=1526014977673&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527172__1526014977673" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
