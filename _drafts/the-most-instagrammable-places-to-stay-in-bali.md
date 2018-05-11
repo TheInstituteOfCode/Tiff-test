@@ -214,6 +214,12 @@ Arriving at the carpark of this resort and having a golf cart come to pick me up
 
 If you want to take pics down at the private beach I would suggest heading down first thing in the morning (around 730am) and utilising the pretty lighting. The sun rises behind the cliff so you won’t actually see the sunrise but the lighting is perfect for fashion or portrait. What you do not want to miss from these villa's is the sunset! From 5pm to 7pm the lighting starts to change from golden to pink and you can capture some great shots either around the villa (the hammock, the pool, in the bedrooms) or out on the grass with the cliff drop and ocean behind you. I could absolutely never tire of that view.
 
+![](/uploads/balihotels-54.jpg)
+
+##### ![](/uploads/balihotels-52.jpg)
+
+##### ![](/uploads/balihotels-58.jpg)
+
 ##### What’s around?
 
 You will need a scooter or driver (which can be organised by the villa) to get to any shops or restaurants which are 10 minutes away. The villa has room service which is excellent and affordable. Each Villa also has a fully contained kitchen if you wanted to cook for yourself. There is daily yoga available at the onsite yoga shala and the private beach at the bottom of the cliff below the villas.&nbsp;
@@ -235,6 +241,8 @@ Entering through the double doored, double entrance I found myself in a very mod
 ##### The Instagram shot(s):
 
 The reason I wanted to stay here was for a photo at the resort pool lined with statues that lead down onto the beach. When I arrived I realised there were plenty of other great photo locations; the hotel bathrooms, the lobby stairwell, the wedding venues, the bar area. It is worth noting that guests are not allowed to use professional cameras on the premises without special permission.&nbsp;
+
+##### ![](/uploads/balihotels-66.jpg)
 
 ##### What’s around?
 
