@@ -96,7 +96,20 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 
 ##### Cost: Very High
 
-##### Where to book it: Airbnb
+##### Where to book it:
+<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527166">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 ##### The Instagram shot(s)
 
@@ -236,7 +249,20 @@ Entering through the double doored, double entrance I found myself in a very mod
 
 ##### Cost: High
 
-##### Where to book it: Booking.com
+##### Where to book it:
+<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527171">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 ##### The Instagram shot(s):
 
@@ -293,6 +319,19 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 ##### Cost: Low
 
 ##### Where to book it:
+<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527172">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 ##### The Instagram shot(s):
 
