@@ -38,7 +38,9 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### Where to book it:
 
-<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;lang=en-AU&amp;aid=1525205&amp;target_aid=1525205&amp;ss_id=254177&amp;ss_type=hotel&amp;df_num_properties=3&amp;fid=1526017799892&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1525205__1526017799892" data-responsive="true"></iframe></ins>
+<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"></ins>&nbsp;[book here](http://www.booking.com/hotel/id/tugu-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+
+##### The Instagram Shot(s):
 
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -49,8 +51,6 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
-##### The Instagram shot(s)
 
 The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-36.jpg)
 
@@ -102,19 +102,7 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 
 ##### Cost: Very High
 
-##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527166&amp;target_aid=1527166&amp;ss_id=362459&amp;ss_type=hotel&amp;fid=1526017799896&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527166__1526017799896" data-responsive="true"></iframe></ins>
-
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+##### Where to book it: [book here](http://www.booking.com/hotel/id/villa-infinity-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 ##### The Instagram shot(s)
 
@@ -198,25 +186,13 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 
 ##### Cost: Moderate
 
-##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527175&amp;target_aid=1527175&amp;ss_id=354729&amp;ss_type=hotel&amp;fid=1526017799900&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527175__1526017799900" data-responsive="true"></iframe></ins>
-
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+##### Where to book it: [book here](http://www.booking.com/hotel/id/munduk-moding-plantation-nature-resort.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 ##### The Instagram shot(s):
 
 Mundok is most well known for the epic mountain view from the Infinity pool. If you are lucky enough to have the right amount of clouds, the sunset is mind blowing! The only down side to such a spectacular shot is that everyone else also wants it! Luckily you can still get an amazing picture midday like I did and if taken at the right angle it looks like you are in the clouds! Some of the villas have private infinity pools so you don’t even have to worry about other people!&nbsp;
 
-![](/uploads/balihotels-43.jpg)
+![](/uploads/balihotels-42.jpg)
 
 ##### ![](/uploads/balihotels-32.jpg)
 
@@ -266,19 +242,7 @@ Entering through the double doored, double entrance I found myself in a very mod
 
 ##### Cost: High
 
-##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527171&amp;target_aid=1527171&amp;ss_id=1641034&amp;ss_type=hotel&amp;fid=1526017799904&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527171__1526017799904" data-responsive="true"></iframe></ins>
-
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+##### Where to book it: [book here](http://www.booking.com/hotel/id/mulia-home-stay.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 ##### The Instagram shot(s):
 
@@ -334,19 +298,7 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 
 ##### Cost: Low
 
-##### Where to book it:
-
-<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527172&amp;target_aid=1527172&amp;ss_id=569990&amp;ss_type=hotel&amp;fid=1526017799909&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527172__1526017799909" data-responsive="true"></iframe></ins>
-
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+##### Where to book it: [book here](http://www.booking.com/hotel/id/le-pirate.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 ##### The Instagram shot(s):
 
