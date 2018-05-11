@@ -31,10 +31,9 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 ##### Cost: High
 
 ##### Where to book it:
-<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1525205">Booking.com</a>
-</ins>
+
+<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;lang=en-AU&amp;aid=1525205&amp;target_aid=1525205&amp;ss_id=254177&amp;ss_type=hotel&amp;df_num_properties=3&amp;fid=1526015591194&amp;" width="100%" height="221" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 221px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1525205__1526015591194" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -99,7 +98,7 @@ My stay at Villa Dragonfly was just perfect. When I walked through the turquoise
 
 ##### Where to book it:
 
-<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527166&amp;target_aid=1527166&amp;ss_id=362459&amp;ss_type=hotel&amp;fid=1526014977668&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527166__1526014977668" data-responsive="true"></iframe></ins>
+<ins class="bookingaff" data-aid="1527166" data-target_aid="1527166" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="362459" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527166&amp;target_aid=1527166&amp;ss_id=362459&amp;ss_type=hotel&amp;fid=1526014977668&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527166__1526014977668" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
 
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -194,10 +193,9 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 ##### Cost: Moderate
 
 ##### Where to book it:
-<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1527175">Booking.com</a>
-</ins>
+
+<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527175&amp;target_aid=1527175&amp;ss_id=354729&amp;ss_type=hotel&amp;fid=1526015591197&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527175__1526015591197" data-responsive="true"></iframe></ins>
+
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -234,7 +232,7 @@ Arriving at the carpark of this resort and having a golf cart come to pick me up
 
 ##### Cost: Moderate - High
 
-##### Where to book it:
+##### Where to book it: [Uluwatu Surf Villa website](http://uluwatusurfvillas.com/){: target="_blank"}
 
 ##### The Instagram shot(s)
 
@@ -264,7 +262,7 @@ Entering through the double doored, double entrance I found myself in a very mod
 
 ##### Where to book it:
 
-<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527171&amp;target_aid=1527171&amp;ss_id=1641034&amp;ss_type=hotel&amp;fid=1526014977672&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527171__1526014977672" data-responsive="true"></iframe></ins>
+<ins class="bookingaff" data-aid="1527171" data-target_aid="1527171" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="1641034" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527171&amp;target_aid=1527171&amp;ss_id=1641034&amp;ss_type=hotel&amp;fid=1526014977672&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527171__1526014977672" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
 
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -284,7 +282,7 @@ The reason I wanted to stay here was for a photo at the resort pool lined with s
 
 ##### ![](/uploads/balihotels-79.jpg)
 
-##### ![](/uploads/balihotels-73.jpg)![](/uploads/balihotels-74.jpg)
+##### ![](/uploads/balihotels-73.jpg)
 
 ##### What’s around?
 
@@ -302,7 +300,7 @@ While I prefer to stay in Villa’s as opposed to hotels or resorts, this really
 
 ##### Cost: Moderate - High
 
-##### Where to book it:
+##### Where to book it: [Sahana villas website](http://www.sahanavilla.com/){: target="_blank"}
 
 ##### The Instagram shot(s):
 
@@ -332,7 +330,7 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 
 ##### Where to book it:
 
-<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527172&amp;target_aid=1527172&amp;ss_id=569990&amp;ss_type=hotel&amp;fid=1526014977673&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527172__1526014977673" data-responsive="true"></iframe></ins>
+<ins class="bookingaff" data-aid="1527172" data-target_aid="1527172" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="569990" data-dest_type="hotel" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;aid=1527172&amp;target_aid=1527172&amp;ss_id=569990&amp;ss_type=hotel&amp;fid=1526014977673&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1527172__1526014977673" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
 
 <script type="text/javascript">
     (function(d, sc, u) {
