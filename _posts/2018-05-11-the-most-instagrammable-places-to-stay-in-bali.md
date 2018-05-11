@@ -356,7 +356,7 @@ These blue and white bungalows are a favourite amongst Instagrammers and it is d
 
 ##### ![](/uploads/balihotels-50.jpg)![](/uploads/balihotels-45.jpg)
 
-##### ![](/uploads/balihotels-46.jpg)![](/uploads/balihotels-49.jpg)
+##### &nbsp;
 
 ##### What’s around?
 
