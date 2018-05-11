@@ -31,9 +31,10 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 ##### Cost: High
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"><iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;lang=en-AU&amp;aid=1525205&amp;target_aid=1525205&amp;ss_id=254177&amp;ss_type=hotel&amp;df_num_properties=3&amp;fid=1526015591194&amp;" width="100%" height="221" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 221px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1525205__1526015591194" data-responsive="true"></iframe></ins>
-
+<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1525205">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -43,7 +44,6 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-
 ##### The Instagram shot(s)
 
 The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-36.jpg)
