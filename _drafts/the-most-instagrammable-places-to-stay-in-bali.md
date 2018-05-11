@@ -130,6 +130,12 @@ This luxury villa was an absolute treat to stay at and Villa Manager Hendra was 
 
 This was probably the most photographable place I have ever stayed. The design of the entrance ways and windows make for unique pics. The turquoise coloured sunken lounge area against white tiling oozes romance and a shot of the bed inside the dome hut is iconic. Best time to shoot is morning.&nbsp;
 
+![](/uploads/balihotels-28.jpg)
+
+##### ![](/uploads/balihotels-29.jpg)
+
+##### ![](/uploads/balihotels-16.jpg)
+
 ##### What’s around?
 
 New Earth Haven is about a 15 minute drive North of Ubud, close to Tegalalang Rice Terraces and Jungle Fish. It is definitely worth a visit, even just to see and eat at the restaurant where they serve organic vegan food. The only downside of staying in the dome is security and the insects. There are no windows so make sure you use the safe to store valuables and bring insect repellant!&nbsp;
@@ -152,6 +158,12 @@ A picture that I found on Instagram of the inside of the bamboo dome attracted m
 
 The most popular spot to shoot this villa is the outdoor bathtub which sits up alongside the main structure. You can open a glass door and step straight into the bathtub. The entire room is enclosed by glass windows and doors which may be why it is called the lightroom as there is a continuous supply of light coming through. Here’s what inspired me to want to stay here (all photos credited to their owners).&nbsp;
 
+![](/uploads/screen-shot-2018-05-11-at-11-18-45-am.png)Photo by @alienchrisblog
+
+![](/uploads/screen-shot-2018-05-11-at-11-20-03-am.png)@maya\_gypsy
+
+![](/uploads/screen-shot-2018-05-11-at-11-20-30-am.png)Photo by @maya\_gypsy
+
 ##### What’s around?
 
 Both Hideout villas are located 1.5 hrs East of Ubud so you will find plenty of serenity and quiet but not a lot of cafes or people. I highly recommend making a morning trip to Lempuyang Temple for a sunrise which is only 1 hr further East of Hideout.&nbsp;
@@ -173,6 +185,12 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 ##### The Instagram shot(s):
 
 Mundok is most well known for the epic mountain view from the Infinity pool. If you are lucky enough to have the right amount of clouds, the sunset is mind blowing! The only down side to such a spectacular shot is that everyone else also wants it! Luckily you can still get an amazing picture midday like I did and if taken at the right angle it looks like you are in the clouds! Some of the villas have private infinity pools so you don’t even have to worry about other people!&nbsp;
+
+![](/uploads/balihotels-43.jpg)
+
+##### ![](/uploads/balihotels-32.jpg)
+
+##### ![](/uploads/balihotels-37.jpg)
 
 ##### What’s around?
 
