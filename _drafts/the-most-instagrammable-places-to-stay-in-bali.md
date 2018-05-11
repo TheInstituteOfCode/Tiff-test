@@ -74,6 +74,12 @@ As soon as you enter the lobby area of Tugu, you know you have stumbled upon som
 
 The triangular architecture of this Villa makes for some epic shots (especially the common area), the gorgeous pond entrance is probably THE photo to get here on a wide angle lens, and the wooden walkway between bedroom areas and the outdoor spa bath are nice too. Best time to shoot this villa is in the evening.&nbsp;
 
+![](/uploads/balihotels-1.jpg)
+
+##### ![](/uploads/balihotels-3.jpg)
+
+##### ![](/uploads/balihotels-6.jpg)
+
 ##### What’s around?
 
 Just a 10 minute walk from Singlefin, this villa is in an extremely convenient location, which is handy in Uluwatu where drivers are hard to come by and overpriced. The breakfast at the villa was was nice but fairly basic; seasonal fruit platter, filtered coffee or tea, choice of scrambled eggs, omelette or pancakes. There are great Cafe’s nearby, my favourite being “Bukit Cafe" which I highly recommend.
