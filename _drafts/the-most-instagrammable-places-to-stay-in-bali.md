@@ -46,8 +46,7 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### The Instagram shot(s)
 
-The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight.
-![](/uploads/balihotels-36.jpg)
+The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-36.jpg)
 
 ##### ![](/uploads/balihotels-41.jpg)
 
@@ -270,6 +269,7 @@ While I prefer to stay in Villa’s as opposed to hotels or resorts, this really
 ##### The Instagram shot(s):
 
 The walls around the villa are covered in climbing vines which make for an awesome back drop, especially around the pool area. The beds make for a clean image in the morning light and the outside of wooden villa is also a popular shot. If you want to get a bit artsy you can lower the sun shades for the common area in the morning and get some streaky lighting coming in for a nice effect.&nbsp;
+
 ![](/uploads/balihotels-90.jpg)
 
 ##### ![](/uploads/balihotels-91.jpg)
@@ -297,7 +297,8 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 ##### The Instagram shot(s):
 
 These blue and white bungalows are a favourite amongst Instagrammers and it is definitely a cute photo that you can get without having to stay here (slightly annoying for the paying guests though I am sure!) The pool and bar area is also great for photos, especially at sunset with the location of this hotel presenting an amazing view of the sun setting and gorgeous lighting.&nbsp;
-![](/uploads/balihotels-43.jpg)
+
+![](/uploads/balihotels-44.jpg)
 
 ##### ![](/uploads/balihotels-45.jpg)
 
