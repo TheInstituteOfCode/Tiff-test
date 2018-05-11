@@ -31,9 +31,10 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 ##### Cost: High
 
 ##### Where to book it:
-
-<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true">&lt;iframe src="//www.booking.com/flexiproduct.html?product=nsb&amp;w=100%25&amp;h=auto&amp;lang=en-AU&amp;aid=1525205&amp;target_aid=1525205&amp;ss_id=254177&amp;ss_type=hotel&amp;df_num_properties=3&amp;fid=1525764845955&amp;" width="100%" height="222" scrolling="no" style="padding: 0px; margin: 0px; overflow: hidden; width: 100%; height: 222px;" marginheight="0" marginwidth="0" frameborder="0" allowtransparency="true" id="booking_widget__1525205__1525764845955" data-responsive="true"&gt;&lt;/iframe&gt;</ins>
-
+<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1525205">Booking.com</a>
+</ins>
 <script type="text/javascript">
     (function(d, sc, u) {
       var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
@@ -193,6 +194,19 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 ##### Cost: Moderate
 
 ##### Where to book it:
+<ins class="bookingaff" data-aid="1527175" data-target_aid="1527175" data-prod="nsb" data-width="100%" data-height="auto" data-dest_id="354729" data-dest_type="hotel">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1527175">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 ##### The Instagram shot(s):
 
