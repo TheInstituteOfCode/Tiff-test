@@ -246,7 +246,7 @@ The reason I wanted to stay here was for a photo at the resort pool lined with s
 
 ##### ![](/uploads/balihotels-79.jpg)
 
-##### ![](/uploads/balihotels-73.jpg)
+##### ![](/uploads/balihotels-73.jpg)![](/uploads/balihotels-74.jpg)
 
 ##### What’s around?
 
