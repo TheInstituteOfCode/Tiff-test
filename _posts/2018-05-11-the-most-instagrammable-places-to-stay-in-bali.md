@@ -36,9 +36,7 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### Cost: High
 
-##### Where to book it:
-
-<ins class="bookingaff" data-aid="1525205" data-target_aid="1525205" data-prod="nsb" data-width="100%" data-height="auto" data-lang="en-AU" data-dest_id="254177" data-dest_type="hotel" data-df_num_properties="3" data-bk-touched="true"></ins>&nbsp;[book here](http://www.booking.com/hotel/id/tugu-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+##### Where to book it:&nbsp;[book here](http://www.booking.com/hotel/id/tugu-bali.html?aid=1525108&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 ##### The Instagram Shot(s):
 
