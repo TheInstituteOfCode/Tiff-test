@@ -46,11 +46,11 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
 
 ##### The Instagram shot(s)
 
-The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight.
+The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-39.jpg) ![](/uploads/balihotels-40.jpg)![](/uploads/balihotels-36.jpg)
 
-![](/uploads/balihotels-35.jpg)
-![](/uploads/balihotels-39.jpg)
-![](/uploads/balihotels-40.jpg)
+##### ![](/uploads/balihotels-41.jpg)
+
+##### ![](/uploads/balihotels-39.jpg)
 
 ##### What's around
 
