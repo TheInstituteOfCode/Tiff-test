@@ -42,29 +42,21 @@ What separates this accommodation from other luxury accommodation I have stayed 
 
 ![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-3.png){: width="550" height="405"}
 
-![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-1.png){: width="613" height="451"}
-
 ### The food
 
 We drove from Perth to Bina Maya after work on a Friday afternoon so we didn’t arrive until after 8pm all starving for dinner. Luckily Goanna Gallery (which happens to be my favourite breakfast spot in the region) does catering and so we arrived to 4 serves of chicken pumpkin curry and salad which was unsurprisingly delicious.&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-54-34-pm-3.png){: width="550" height="407"}
 
-![](/uploads/screen-shot-2019-09-03-at-12-54-34-pm-2.png){: width="606" height="448"}
+All of our breakfasts came via the Art of Grazing which made us a breakfast tray with fruits, yoghurt, croissants, and fritters (for the gluten free). They also provided a vegan friendly cheese and cold cut meats grazing plate for an afternoon snack with wine\!&nbsp;
 
 &nbsp;
 
-All of our breakfasts came via the Art of Grazing which made us a breakfast tray with fruits, yoghurt, croissants, and fritters (for the gluten free). They also provided a vegan friendly cheese and cold cut meats grazing plate for an afternoon snack with wine\!&nbsp;
-
 ![](/uploads/screen-shot-2019-09-03-at-12-56-09-pm-1.png){: width="550" height="435"}
-
-![](/uploads/screen-shot-2019-09-03-at-12-56-09-pm.png){: width="491" height="458"}
 
 We were lucky enough to have a 3 course lunch at the famous Amelia Park Restaurant which I have been wanting to try for years\! It was worth the wait\! The meals are actually quite reasonably priced for a fine dining experience with my favourite meal being the lamb shoulder with vegetables which can be shared by two people for $75 (this was shared by Nikki and Rachael with a very jealous me looking on and drooling). I think the girls also really enjoyed their espresso martini which I couldn’t have due to my current dairy free, caffeine free diet. The restaurant was really accommodating for my dietary needs having a seperate menu for me to choose from. Definitely worth treating yourself to a meal here if you are in the area.&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-5.png){: width="550" height="366"}
-
-![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-4.png){: width="640" height="426"}
 
 ### The Wine
 
@@ -72,15 +64,11 @@ Western Australia’s Margaret River Region is renowned for its wine so we happi
 
 ![](/uploads/screen-shot-2019-09-03-at-12-55-23-pm-3.png){: width="550" height="437"}
 
-![](/uploads/screen-shot-2019-09-03-at-12-55-23-pm-2.png){: width="610" height="485"}
-
 &nbsp;
 
 We went to wine tastings at two wineries, undoubtably two of the best. First we went to Vasse Felix which claims the title of oldest winery in the region. The cellar door feels classy and you can opt for a seated wine tasting which includes 7+ tastings. We all loved the Sparkling Blanc de Blanc and I regret not buying a bottle or two as they cannot be bought anywhere else\! Nikki was smart and stocked up\! Next we headed to Amelia Park Winery (before going to the restaurant for lunch). This cellar door takes the prize for most impressive with its moody wine barrel filled entry way leading up to its open and bright tasting area. I quite like their Trellis range which their entry level range of wines.&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-53-55-pm-2.png){: width="550" height="366"}
-
-![](/uploads/screen-shot-2019-09-03-at-12-53-55-pm-1.png){: width="734" height="488"}
 
 Flame Tree Wines also provided us with a couple of bottles when we arrived at Bina Maya. We were so impressed that on our last day in the region we went to visit their cellar door to buy more bottles to take home. I loved the huge fireplace in their tasting room and I bought a couple of bottles of the Shiraz, a personal favourite of mine.&nbsp;
 
@@ -92,23 +80,17 @@ First was the nude art class which we did after our wine tour so luckily our inh
 
 ![](/uploads/img-20190903-113134-933-2.jpg){: width="550" height="412"}
 
-![](/uploads/img-20190903-113134-933-1.jpg){: width="640" height="479"}
-
 Straight after the nude artwork session we had champagne pilates. By this stage we were beyond tipsy having been drinking all day, I actually can’t remember too much of the class but I know it was fun\! I thought it was very clever to incorporate holding and balancing a glass of champagne while doing pilates exercises. The all day drinking did not make this any easier but it definitely had us laughing.&nbsp;
 
 The final activity was yoga which we did first thing the next morning after having a sleep in. This Yin style yoga session with essential oils from Solace Essentials was a welcome wind down from the day before. We all felt sufficiently relaxed and lengthened after our hour long class and ready to enjoy a free day to explore the area.&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-55-39-pm-2.png){: width="550" height="427"}
 
-![](/uploads/screen-shot-2019-09-03-at-12-55-39-pm-1.png){: width="610" height="474"}
-
 ### The relaxation
 
 I cannot think of a better way to end a girls weekend than with a massage at Bodhi J. We were treated to the Kodo Rock Massage which is a 90 minute massage inspired by … and using warm smooth stones to create circular motions over the body. This particular massage is more than just the massage, it is a journey, beginning with a foot spa and choosing your oil based on what your body needs, followed by an energy cleansing ceremony, then the rock massage, ending with another cleansing ceremony all conducted by your masseuse. I floated away for the entire 90 minutes and was not ready for it to end. Bodhi J is located at Indijup Spa Retreat which overlooks the beach and feels very luxurious. None of us wanted to then take the 3.5 hour drive back to Perth\!
 
 ![](/uploads/screen-shot-2019-09-03-at-12-55-01-pm-2.png){: width="550" height="436"}
-
-![](/uploads/screen-shot-2019-09-03-at-12-55-01-pm-1.png){: width="611" height="484"}
 
 ### The ideal schedule:&nbsp;
 
@@ -131,8 +113,6 @@ I cannot think of a better way to end a girls weekend than with a massage at Bod
 
 ![](/uploads/screen-shot-2019-09-03-at-12-53-37-pm-2.png){: width="550" height="423"}
 
-![](/uploads/screen-shot-2019-09-03-at-12-53-37-pm-1.png){: width="613" height="472"}
-
 <u><strong>SUNDAY</strong></u>
 
 * 900 yoga
@@ -141,8 +121,6 @@ I cannot think of a better way to end a girls weekend than with a massage at Bod
 * 1300 drive back to Perth
 
 ![](/uploads/screen-shot-2019-09-03-at-12-53-24-pm-2.png){: width="550" height="433"}
-
-![](/uploads/screen-shot-2019-09-03-at-12-53-24-pm-1.png){: width="622" height="490"}
 
 ### The conclusion
 
