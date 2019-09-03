@@ -24,7 +24,7 @@ _comments:
   image_path: this is the small image in the previews
 ---
 
-Choosing where to stay in Bali is hard. Choosing where to stay when you want to take really cool pics is harder…never fear, Tiffany is here! After much research, many emails, and double booking myself on more than 1 occasion; I have put together a list of the most Instagrammable places to stay in Bali!
+Choosing where to stay in Bali is hard. Choosing where to stay when you want to take really cool pics is harder…never fear, Tiffany is here\! After much research, many emails, and double booking myself on more than 1 occasion; I have put together a list of the most Instagrammable places to stay in Bali\!
 
 \*\*All images taken by @eyesofanomad and edited by me unless otherwise stated
 
@@ -50,7 +50,7 @@ Choosing where to stay in Bali is hard. Choosing where to stay when you want to 
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
 
-The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-36.jpg)
+The variety of textures used in the construction of Tugu make it an awesome backdrop for fashion photography but make it difficult to capture the property in a way that does it justice. It is one of those places that you really have to see to truly appreciate. I had to walk around the property 3 times just to take it all in\! The grounds of the hotel provided many gorgeous shots in the afternoon sunlight. ![](/uploads/balihotels-36.jpg)
 
 ##### ![](/uploads/balihotels-41.jpg)
 
@@ -58,11 +58,11 @@ The variety of textures used in the construction of Tugu make it an awesome back
 
 ### What's around:
 
-Located straight off the main street of Canggu, this sanctuary is a hidden gem! Directly across the road from the beach and both The Lawn and Old Mans (popular bars and eateries in Canggu) you will not find a better located hotel in the area. There are plenty of shops, cafes and beauty spas nearby as well. The 3 storey restaurant "Ji" attached to the hotel has uninterrupted ocean views and serves the best Japanese cuisine in Bali!&nbsp;
+Located straight off the main street of Canggu, this sanctuary is a hidden gem\! Directly across the road from the beach and both The Lawn and Old Mans (popular bars and eateries in Canggu) you will not find a better located hotel in the area. There are plenty of shops, cafes and beauty spas nearby as well. The 3 storey restaurant "Ji" attached to the hotel has uninterrupted ocean views and serves the best Japanese cuisine in Bali\!&nbsp;
 
 ### My experience:
 
-As soon as you enter the lobby area of Tugu, you know you have stumbled upon something special. The high ceilings, dark wooden beams, long red drapes and giant ancient statue centrepiece, it feels like you have taken a step back in history (royal history). I was greeted with a fresh juice as I was taken through the check-in process where I was informed that I would be given a 15 minute welcome massage and daily high tea between 430-630pm as well as breakfast. Stepping out of the main lobby area, I entered a labyrinth of pebbled pathways and wooden over pond walkways that led to the 21 rooms on the enormous property! My room was in the farthest corner of the resort as this room had a private pool with ocean views!&nbsp;
+As soon as you enter the lobby area of Tugu, you know you have stumbled upon something special. The high ceilings, dark wooden beams, long red drapes and giant ancient statue centrepiece, it feels like you have taken a step back in history (royal history). I was greeted with a fresh juice as I was taken through the check-in process where I was informed that I would be given a 15 minute welcome massage and daily high tea between 430-630pm as well as breakfast. Stepping out of the main lobby area, I entered a labyrinth of pebbled pathways and wooden over pond walkways that led to the 21 rooms on the enormous property\! My room was in the farthest corner of the resort as this room had a private pool with ocean views\!&nbsp;
 
 ## Villa DragonFly&nbsp;
 
@@ -142,11 +142,11 @@ This was probably the most photographable place I have ever stayed. The design o
 
 ### What’s around?
 
-New Earth Haven is about a 15 minute drive North of Ubud, close to Tegalalang Rice Terraces and Jungle Fish. It is definitely worth a visit, even just to see and eat at the restaurant where they serve organic vegan food. The only downside of staying in the dome is security and the insects. There are no windows so make sure you use the safe to store valuables and bring insect repellant!&nbsp;
+New Earth Haven is about a 15 minute drive North of Ubud, close to Tegalalang Rice Terraces and Jungle Fish. It is definitely worth a visit, even just to see and eat at the restaurant where they serve organic vegan food. The only downside of staying in the dome is security and the insects. There are no windows so make sure you use the safe to store valuables and bring insect repellant\!&nbsp;
 
 ### My experience:
 
-A picture that I found on Instagram of the inside of the bamboo dome attracted me to make a booking but asides from that there are relatively few images across social media that show off how amazing this place is! In booking the dome, I did not realise I would also have access to a pool and very beautiful sitting areas inside a complex that had 2 other bedrooms (though these were not made of bamboo). I would also have access to the restaurant across the road called “Akesha” which had an equally impressive structural design and reminded me of the movie Avatar. I immediately called my friend who is a photographer and told him he had to come up and shoot this place with me. My favourite things about staying here was the tranquility of the dome hut, listening to the sounds of nature as I fell asleep, the outdoor bathroom and toilet area and the adorable dogs that must belong to the villa owner.&nbsp;
+A picture that I found on Instagram of the inside of the bamboo dome attracted me to make a booking but asides from that there are relatively few images across social media that show off how amazing this place is\! In booking the dome, I did not realise I would also have access to a pool and very beautiful sitting areas inside a complex that had 2 other bedrooms (though these were not made of bamboo). I would also have access to the restaurant across the road called “Akesha” which had an equally impressive structural design and reminded me of the movie Avatar. I immediately called my friend who is a photographer and told him he had to come up and shoot this place with me. My favourite things about staying here was the tranquility of the dome hut, listening to the sounds of nature as I fell asleep, the outdoor bathroom and toilet area and the adorable dogs that must belong to the villa owner.&nbsp;
 
 ## Hideout - Lightroom
 
@@ -162,11 +162,17 @@ A picture that I found on Instagram of the inside of the bamboo dome attracted m
 
 The most popular spot to shoot this villa is the outdoor bathtub which sits up alongside the main structure. You can open a glass door and step straight into the bathtub. The entire room is enclosed by glass windows and doors which may be why it is called the lightroom as there is a continuous supply of light coming through. Here’s what inspired me to want to stay here (all photos credited to their owners).&nbsp;
 
-![](/uploads/screen-shot-2018-05-11-at-11-18-45-am.png)Photo by @alienchrisblog
+![](/uploads/screen-shot-2018-05-11-at-11-18-45-am.png)
 
-![](/uploads/screen-shot-2018-05-11-at-11-20-03-am.png)@maya\_gypsy
+Photo by @alienchrisblog
 
-![](/uploads/screen-shot-2018-05-11-at-11-20-30-am.png)Photo by @maya\_gypsy
+![](/uploads/screen-shot-2018-05-11-at-11-20-03-am.png)
+
+@maya\_gypsy
+
+![](/uploads/screen-shot-2018-05-11-at-11-20-30-am.png)
+
+Photo by @maya\_gypsy
 
 ### What’s around?
 
@@ -174,7 +180,7 @@ Both Hideout villas are located 1.5 hrs East of Ubud so you will find plenty of 
 
 ### My experience:
 
-Hideout is possibly the most Instagrammed villa in all of Bali and is booked for about 12 months solid. With it’s triangular windowed bedroom and it’s location beside a stream amongst the trees, Hideout definitely deserves a mention on this list, HOWEVER, unless you want to wait for a cancellation, you are better off booking in newly established Lightroom which is Hideouts latest design and comes at half the price! Unfortunately I was unwell at the time of my reservation and was not able to make it out to stay at the Lightroom, however I still wanted to include it in my blog as I was really excited to stay there and still believe it to be extremely photographic.&nbsp;
+Hideout is possibly the most Instagrammed villa in all of Bali and is booked for about 12 months solid. With it’s triangular windowed bedroom and it’s location beside a stream amongst the trees, Hideout definitely deserves a mention on this list, HOWEVER, unless you want to wait for a cancellation, you are better off booking in newly established Lightroom which is Hideouts latest design and comes at half the price\! Unfortunately I was unwell at the time of my reservation and was not able to make it out to stay at the Lightroom, however I still wanted to include it in my blog as I was really excited to stay there and still believe it to be extremely photographic.&nbsp;
 
 ## Mundok Moding Plantation
 
@@ -188,7 +194,7 @@ Hideout is possibly the most Instagrammed villa in all of Bali and is booked for
 
 ### The Instagram shot(s):
 
-Mundok is most well known for the epic mountain view from the Infinity pool. If you are lucky enough to have the right amount of clouds, the sunset is mind blowing! The only down side to such a spectacular shot is that everyone else also wants it! Luckily you can still get an amazing picture midday like I did and if taken at the right angle it looks like you are in the clouds! Some of the villas have private infinity pools so you don’t even have to worry about other people!&nbsp;
+Mundok is most well known for the epic mountain view from the Infinity pool. If you are lucky enough to have the right amount of clouds, the sunset is mind blowing\! The only down side to such a spectacular shot is that everyone else also wants it\! Luckily you can still get an amazing picture midday like I did and if taken at the right angle it looks like you are in the clouds\! Some of the villas have private infinity pools so you don’t even have to worry about other people\!&nbsp;
 
 ![](/uploads/balihotels-42.jpg)
 
@@ -198,7 +204,7 @@ Mundok is most well known for the epic mountain view from the Infinity pool. If 
 
 ### What’s around?
 
-Staying here is ideal for exploring some of the best waterfalls Bali has to offer! One of which is Mundok waterfall and the hotel offers daily shuttle to the area. The hotel offers daily activities which are free to hotel guests. There is also a spa on site with a large selection of packages. I would suggest at least 2 nights stay here to take full advantage of this location.&nbsp;
+Staying here is ideal for exploring some of the best waterfalls Bali has to offer\! One of which is Mundok waterfall and the hotel offers daily shuttle to the area. The hotel offers daily activities which are free to hotel guests. There is also a spa on site with a large selection of packages. I would suggest at least 2 nights stay here to take full advantage of this location.&nbsp;
 
 ### My experience:
 
@@ -216,7 +222,7 @@ Arriving at the carpark of this resort and having a golf cart come to pick me up
 
 ### The Instagram shot(s):
 
-If you want to take pics down at the private beach I would suggest heading down first thing in the morning (around 730am) and utilising the pretty lighting. The sun rises behind the cliff so you won’t actually see the sunrise but the lighting is perfect for fashion or portrait. What you do not want to miss from these villa's is the sunset! From 5pm to 7pm the lighting starts to change from golden to pink and you can capture some great shots either around the villa (the hammock, the pool, in the bedrooms) or out on the grass with the cliff drop and ocean behind you. I could absolutely never tire of that view.
+If you want to take pics down at the private beach I would suggest heading down first thing in the morning (around 730am) and utilising the pretty lighting. The sun rises behind the cliff so you won’t actually see the sunrise but the lighting is perfect for fashion or portrait. What you do not want to miss from these villa's is the sunset\! From 5pm to 7pm the lighting starts to change from golden to pink and you can capture some great shots either around the villa (the hammock, the pool, in the bedrooms) or out on the grass with the cliff drop and ocean behind you. I could absolutely never tire of that view.
 
 ![](/uploads/balihotels-54.jpg)
 
@@ -230,7 +236,7 @@ You will need a scooter or driver (which can be organised by the villa) to get t
 
 ### My experience:
 
-Entering through the double doored, double entrance I found myself in a very modern and spacious open living area. Straight ahead were glass sliding doors that revealed an outdoor seating area, an outdoor pool then green lawn leading to a cliff drop and the ocean beyond. The smell of Ocean air and the refreshing sea breeze was a relief from the constant humidity of Bali. Once you are here you will not want to leave!
+Entering through the double doored, double entrance I found myself in a very modern and spacious open living area. Straight ahead were glass sliding doors that revealed an outdoor seating area, an outdoor pool then green lawn leading to a cliff drop and the ocean beyond. The smell of Ocean air and the refreshing sea breeze was a relief from the constant humidity of Bali. Once you are here you will not want to leave\!
 
 ## The Mulia Resort&nbsp;
 
@@ -258,7 +264,7 @@ Nusa Dua is the main resort and luxury hotel area of Bali with each resort havin
 
 ### My experience:
 
-While I prefer to stay in Villa’s as opposed to hotels or resorts, this really does take the cake as far as resorts go. It is the biggest resort in Bali with over 700 rooms which can accommodate guests for three wedding venues. I was given a tour of the grounds which took 90 minutes because the property is so large, we had to take a golf cart between some areas! I was treated to a 2 hour spa session which was unlike any I have experienced and I strongly suggest forking out the extra coin to get to the spa if you are going to stay here, it is well worth the cost.&nbsp;
+While I prefer to stay in Villa’s as opposed to hotels or resorts, this really does take the cake as far as resorts go. It is the biggest resort in Bali with over 700 rooms which can accommodate guests for three wedding venues. I was given a tour of the grounds which took 90 minutes because the property is so large, we had to take a golf cart between some areas\! I was treated to a 2 hour spa session which was unlike any I have experienced and I strongly suggest forking out the extra coin to get to the spa if you are going to stay here, it is well worth the cost.&nbsp;
 
 ## Sahana Villa
 
@@ -282,7 +288,7 @@ The walls around the villa are covered in climbing vines which make for an aweso
 
 ### What’s around?
 
-What’s NOT around is more the question! This is smack bang in the centre of Seminyak with shops and restaurants at your doorstep. I was impressed with how quiet, safe and secluded it felt for being so close to Seminyak square. There is plenty to do within walking distance but also easy to get a taxi if you want to go exploring the island.&nbsp;
+What’s NOT around is more the question\! This is smack bang in the centre of Seminyak with shops and restaurants at your doorstep. I was impressed with how quiet, safe and secluded it felt for being so close to Seminyak square. There is plenty to do within walking distance but also easy to get a taxi if you want to go exploring the island.&nbsp;
 
 ### My experience:
 
@@ -300,7 +306,7 @@ The staff were very welcoming and attentive. I stayed here with friends over Nye
 
 ### The Instagram shot(s):
 
-These blue and white bungalows are a favourite amongst Instagrammers and it is definitely a cute photo that you can get without having to stay here (slightly annoying for the paying guests though I am sure!) The pool and bar area is also great for photos, especially at sunset with the location of this hotel presenting an amazing view of the sun setting and gorgeous lighting.&nbsp;
+These blue and white bungalows are a favourite amongst Instagrammers and it is definitely a cute photo that you can get without having to stay here (slightly annoying for the paying guests though I am sure\!) The pool and bar area is also great for photos, especially at sunset with the location of this hotel presenting an amazing view of the sun setting and gorgeous lighting.&nbsp;
 
 ![](/uploads/balihotels-44.jpg)
 
