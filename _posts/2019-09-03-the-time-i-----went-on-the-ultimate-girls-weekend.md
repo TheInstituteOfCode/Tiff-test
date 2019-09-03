@@ -80,7 +80,7 @@ Straight after the nude artwork session we had champagne pilates. By this stage 
 
 The final activity was yoga which we did first thing the next morning after having a sleep in. This Yin style yoga session with essential oils from Solace Essentials was a welcome wind down from the day before. We all felt sufficiently relaxed and lengthened after our hour long class and ready to enjoy a free day to explore the area.&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-55-39-pm.png){: width="1756" height="1364"}
+![](/uploads/binamaya19-15.jpg){: width="1042" height="834"}
 
 ### The relaxation
 
