@@ -34,11 +34,11 @@ Bina means light of morning and Maya means hut or house in Australian native lan
 
 My friends and I stayed in the &nbsp;Residence and were blown away the moment we walked in. We all had the same reaction; “WOW”. The spacious, luxurious yet practical and comfortable interior made the retreat feel both homely and like a special treat. We each had our own room, there are 2 bathrooms, an open plan living/dining/kitchen area and a yoga room/games room/relaxing nook. The setup is perfect for either cold winter escapes or hot summer getaways with the indoor fireplace creating a cozy winter vibe and the large balcony overlooking the surrounding nature making the perfect setting for a sunny afternoon wine.&nbsp;
 
-![](/uploads/balcony.jpg){: width="5000" height="4000"}
+&nbsp;
 
 What separates this accommodation from other luxury accommodation I have stayed in is the attention to detail. The heated floors and automatic lighting in the bathrooms, to the personalised spotify playlist, to the selection of books, games and teas, to the inclusion of wifi, netflix and stan, to the bedtime lavender spray on the bedside table. There was nothing that hadn’t been thought of so props to Sara for being so diligent in her guest preparations\!&nbsp;
 
-&nbsp;
+![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm.png){: width="1764" height="1300"}
 
 ### The food
 
