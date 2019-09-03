@@ -30,7 +30,7 @@ Every girl needs to time to kick off her heels, ditch the boyfriend and indulge 
 
 Bina means light of morning and Maya means hut or house in Australian native language. The retreat, owned by Sara and Tim, is situated amongst beautiful bushland where you feel far from civilisation but are actually just a short drive from Dunsborough. The property contains two villas; a two bedroom luxury villa and a four bedroom villa (known as the Residence), as well as a fire pit and a large grassed area perfect for a function or even an intimate wedding\!&nbsp;
 
-![](/uploads/64791506-126997648520441-2567496204420333511-n-1.jpg){: width="750" height="562"}
+![](/uploads/64791506-126997648520441-2567496204420333511-n-2.jpg){: width="651" height="488"}
 
 *The Residence exterior. Photo credit @dylan.dehaas*
 
