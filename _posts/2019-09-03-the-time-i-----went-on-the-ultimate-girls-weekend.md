@@ -40,8 +40,6 @@ My friends and I stayed in the &nbsp;Residence and were blown away the moment we
 
 What separates this accommodation from other luxury accommodation I have stayed in is the attention to detail. The heated floors and automatic lighting in the bathrooms, to the personalised spotify playlist, to the selection of books, games and teas, to the inclusion of wifi, netflix and stan, to the bedtime lavender spray on the bedside table. There was nothing that hadn’t been thought of so props to Sara for being so diligent in her guest preparations\!&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-2.png){: width="663" height="488"}
-
 ![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-1.png){: width="613" height="451"}
 
 ### The food
