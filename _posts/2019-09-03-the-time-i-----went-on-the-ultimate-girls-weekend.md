@@ -56,7 +56,7 @@ All of our breakfasts came via the Art of Grazing which made us a breakfast tray
 
 We were lucky enough to have a 3 course lunch at the famous Amelia Park Restaurant which I have been wanting to try for years\! It was worth the wait\! The meals are actually quite reasonably priced for a fine dining experience with my favourite meal being the lamb shoulder with vegetables which can be shared by two people for $75 (this was shared by Nikki and Rachael with a very jealous me looking on and drooling). I think the girls also really enjoyed their espresso martini which I couldn’t have due to my current dairy free, caffeine free diet. The restaurant was really accommodating for my dietary needs having a seperate menu for me to choose from. Definitely worth treating yourself to a meal here if you are in the area.&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-3.png){: width="320" height="213"}
+![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-4.png){: width="640" height="426"}
 
 ![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-2.png){: width="734" height="488"}
 
