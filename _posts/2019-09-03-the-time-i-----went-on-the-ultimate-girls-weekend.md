@@ -15,7 +15,7 @@ categories:
 tags:
   - Australia
   - 'Travel,'
-image_path: /uploads/cheers.jpg
+image_path: /uploads/screen-shot-2019-09-03-at-12-53-55-pm-1.png
 contact-form: true
 _comments:
   title: The page title for google
@@ -38,33 +38,35 @@ My friends and I stayed in the &nbsp;Residence and were blown away the moment we
 
 What separates this accommodation from other luxury accommodation I have stayed in is the attention to detail. The heated floors and automatic lighting in the bathrooms, to the personalised spotify playlist, to the selection of books, games and teas, to the inclusion of wifi, netflix and stan, to the bedtime lavender spray on the bedside table. There was nothing that hadn’t been thought of so props to Sara for being so diligent in her guest preparations\!&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm.png){: width="1764" height="1300"}
+![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-1.png){: width="613" height="451"}
 
 ### The food
 
 We drove from Perth to Bina Maya after work on a Friday afternoon so we didn’t arrive until after 8pm all starving for dinner. Luckily Goanna Gallery (which happens to be my favourite breakfast spot in the region) does catering and so we arrived to 4 serves of chicken pumpkin curry and salad which was unsurprisingly delicious.&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-54-34-pm-1.png){: width="1746" height="1290"}
+![](/uploads/screen-shot-2019-09-03-at-12-54-34-pm-2.png){: width="606" height="448"}
 
 &nbsp;
 
 All of our breakfasts came via the Art of Grazing which made us a breakfast tray with fruits, yoghurt, croissants, and fritters (for the gluten free). They also provided a vegan friendly cheese and cold cut meats grazing plate for an afternoon snack with wine\!&nbsp;
 
-![](/uploads/foodspread.jpeg){: width="1024" height="1024"}
+![](/uploads/screen-shot-2019-09-03-at-12-56-09-pm.png){: width="491" height="458"}
 
 We were lucky enough to have a 3 course lunch at the famous Amelia Park Restaurant which I have been wanting to try for years\! It was worth the wait\! The meals are actually quite reasonably priced for a fine dining experience with my favourite meal being the lamb shoulder with vegetables which can be shared by two people for $75 (this was shared by Nikki and Rachael with a very jealous me looking on and drooling). I think the girls also really enjoyed their espresso martini which I couldn’t have due to my current dairy free, caffeine free diet. The restaurant was really accommodating for my dietary needs having a seperate menu for me to choose from. Definitely worth treating yourself to a meal here if you are in the area.&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-1.png){: width="2114" height="1406"}
+![](/uploads/screen-shot-2019-09-03-at-12-54-09-pm-2.png){: width="734" height="488"}
 
 ### The Wine
 
 Western Australia’s Margaret River Region is renowned for its wine so we happily obliged in trying out as many types as we could\! It is always tricky to know which wineries to go to as there are so many to choose from which is why it is better to leave it up to someone who knows the area inside out\! Meet Leith who owns and runs Vino-Culture, a lovely local who will pick you up from where you are staying, make sure you have the best day ever and get you back home with all your belongings (no phones or hats will be left behind with Leith on duty).&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-55-23-pm-1.png){: width="1758" height="1396"}
+![](/uploads/screen-shot-2019-09-03-at-12-55-23-pm-2.png){: width="610" height="485"}
+
+&nbsp;
 
 We went to wine tastings at two wineries, undoubtably two of the best. First we went to Vasse Felix which claims the title of oldest winery in the region. The cellar door feels classy and you can opt for a seated wine tasting which includes 7+ tastings. We all loved the Sparkling Blanc de Blanc and I regret not buying a bottle or two as they cannot be bought anywhere else\! Nikki was smart and stocked up\! Next we headed to Amelia Park Winery (before going to the restaurant for lunch). This cellar door takes the prize for most impressive with its moody wine barrel filled entry way leading up to its open and bright tasting area. I quite like their Trellis range which their entry level range of wines.&nbsp;
 
-![](/uploads/screen-shot-2019-09-03-at-12-53-55-pm.png){: width="2114" height="1404"}
+![](/uploads/screen-shot-2019-09-03-at-12-53-55-pm-1.png){: width="734" height="488"}
 
 Flame Tree Wines also provided us with a couple of bottles when we arrived at Bina Maya. We were so impressed that on our last day in the region we went to visit their cellar door to buy more bottles to take home. I loved the huge fireplace in their tasting room and I bought a couple of bottles of the Shiraz, a personal favourite of mine.&nbsp;
 
@@ -74,19 +76,19 @@ What would a girls weekend be without a few fun activities? Holistic Hen based i
 
 First was the nude art class which we did after our wine tour so luckily our inhibitions were already lowered. If you have never sketched a naked man before, expect a very confident male subject who stands silently, fully naked, seemingly enjoying all eyes on his ding-dong. Helen was our teacher and she guided us through using charcoal to create shading and shadows and how to draw the human body in proportion. It was very amusing to show our drawings at the end, notably Nikki’s was missing his penis which Nikki explained she couldn’t look at it to draw it\!
 
-![](/uploads/nudeart.jpg){: width="640" height="479"}
+![](/uploads/img-20190903-113134-933-1.jpg){: width="640" height="479"}
 
 Straight after the nude artwork session we had champagne pilates. By this stage we were beyond tipsy having been drinking all day, I actually can’t remember too much of the class but I know it was fun\! I thought it was very clever to incorporate holding and balancing a glass of champagne while doing pilates exercises. The all day drinking did not make this any easier but it definitely had us laughing.&nbsp;
 
 The final activity was yoga which we did first thing the next morning after having a sleep in. This Yin style yoga session with essential oils from Solace Essentials was a welcome wind down from the day before. We all felt sufficiently relaxed and lengthened after our hour long class and ready to enjoy a free day to explore the area.&nbsp;
 
-![](/uploads/binamaya19-15.jpg){: width="1042" height="834"}
+![](/uploads/screen-shot-2019-09-03-at-12-55-39-pm-1.png){: width="610" height="474"}
 
 ### The relaxation
 
 I cannot think of a better way to end a girls weekend than with a massage at Bodhi J. We were treated to the Kodo Rock Massage which is a 90 minute massage inspired by … and using warm smooth stones to create circular motions over the body. This particular massage is more than just the massage, it is a journey, beginning with a foot spa and choosing your oil based on what your body needs, followed by an energy cleansing ceremony, then the rock massage, ending with another cleansing ceremony all conducted by your masseuse. I floated away for the entire 90 minutes and was not ready for it to end. Bodhi J is located at Indijup Spa Retreat which overlooks the beach and feels very luxurious. None of us wanted to then take the 3.5 hour drive back to Perth\!
 
-![](/uploads/screen-shot-2019-09-03-at-12-55-01-pm.png){: width="1760" height="1394"}
+![](/uploads/screen-shot-2019-09-03-at-12-55-01-pm-1.png){: width="611" height="484"}
 
 ### The ideal schedule:&nbsp;
 
@@ -107,7 +109,7 @@ I cannot think of a better way to end a girls weekend than with a massage at Bod
 * 1600 Nude art class
 * 1730 Cheese and cold meats grazing plate from The Art of Grazing with wine.
 
-![](/uploads/screen-shot-2019-09-03-at-12-53-37-pm.png){: width="1764" height="1360"}
+![](/uploads/screen-shot-2019-09-03-at-12-53-37-pm-1.png){: width="613" height="472"}
 
 <u><strong>SUNDAY</strong></u>
 
@@ -116,7 +118,7 @@ I cannot think of a better way to end a girls weekend than with a massage at Bod
 * 1130 massages at Bodhi J
 * 1300 drive back to Perth
 
-![](/uploads/screen-shot-2019-09-03-at-12-53-24-pm.png){: width="1790" height="1410"}
+![](/uploads/screen-shot-2019-09-03-at-12-53-24-pm-1.png){: width="622" height="490"}
 
 ### The conclusion
 
