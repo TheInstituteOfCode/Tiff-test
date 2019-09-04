@@ -72,7 +72,9 @@ What would a girls weekend be without a few fun activities? Holistic Hen based i
 
 First was the nude art class which we did after our wine tour so luckily our inhibitions were already lowered. If you have never sketched a naked man before, expect a very confident male subject who stands silently, fully naked, seemingly enjoying all eyes on his ding-dong. Helen was our teacher and she guided us through using charcoal to create shading and shadows and how to draw the human body in proportion. It was very amusing to show our drawings at the end, notably Nikki’s was missing his penis which Nikki explained she couldn’t look at it to draw it\!
 
-![](/uploads/img-20190903-113134-933-2.jpg){: width="550" height="412"}
+![](/uploads/binamaya19-66.jpg){: width="640" height="519"}
+
+&nbsp;
 
 Straight after the nude artwork session we had champagne pilates. By this stage we were beyond tipsy having been drinking all day, I actually can’t remember too much of the class but I know it was fun\! I thought it was very clever to incorporate holding and balancing a glass of champagne while doing pilates exercises. The all day drinking did not make this any easier but it definitely had us laughing.&nbsp;
 
