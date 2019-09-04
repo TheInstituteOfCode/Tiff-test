@@ -36,8 +36,6 @@ Bina means light of morning and Maya means hut or house in Australian native lan
 
 My friends and I stayed in the &nbsp;Residence and were blown away the moment we walked in. We all had the same reaction; “WOW”. The spacious, luxurious yet practical and comfortable interior made the retreat feel both homely and like a special treat. We each had our own room, there are 2 bathrooms, an open plan living/dining/kitchen area and a yoga room/games room/relaxing nook. The setup is perfect for either cold winter escapes or hot summer getaways with the indoor fireplace creating a cozy winter vibe and the large balcony overlooking the surrounding nature making the perfect setting for a sunny afternoon wine.&nbsp;
 
-&nbsp;
-
 What separates this accommodation from other luxury accommodation I have stayed in is the attention to detail. The heated floors and automatic lighting in the bathrooms, to the personalised spotify playlist, to the selection of books, games and teas, to the inclusion of wifi, netflix and stan, to the bedtime lavender spray on the bedside table. There was nothing that hadn’t been thought of so props to Sara for being so diligent in her guest preparations\!&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-52-55-pm-3.png){: width="550" height="405"}
@@ -50,8 +48,6 @@ We drove from Perth to Bina Maya after work on a Friday afternoon so we didn’t
 
 All of our breakfasts came via the Art of Grazing which made us a breakfast tray with fruits, yoghurt, croissants, and fritters (for the gluten free). They also provided a vegan friendly cheese and cold cut meats grazing plate for an afternoon snack with wine\!&nbsp;
 
-&nbsp;
-
 ![](/uploads/screen-shot-2019-09-03-at-12-56-09-pm-1.png){: width="550" height="435"}
 
 We were lucky enough to have a 3 course lunch at the famous Amelia Park Restaurant which I have been wanting to try for years\! It was worth the wait\! The meals are actually quite reasonably priced for a fine dining experience with my favourite meal being the lamb shoulder with vegetables which can be shared by two people for $75 (this was shared by Nikki and Rachael with a very jealous me looking on and drooling). I think the girls also really enjoyed their espresso martini which I couldn’t have due to my current dairy free, caffeine free diet. The restaurant was really accommodating for my dietary needs having a seperate menu for me to choose from. Definitely worth treating yourself to a meal here if you are in the area.&nbsp;
@@ -63,8 +59,6 @@ We were lucky enough to have a 3 course lunch at the famous Amelia Park Restaura
 Western Australia’s Margaret River Region is renowned for its wine so we happily obliged in trying out as many types as we could\! It is always tricky to know which wineries to go to as there are so many to choose from which is why it is better to leave it up to someone who knows the area inside out\! Meet Leith who owns and runs Vino-Culture, a lovely local who will pick you up from where you are staying, make sure you have the best day ever and get you back home with all your belongings (no phones or hats will be left behind with Leith on duty).&nbsp;
 
 ![](/uploads/screen-shot-2019-09-03-at-12-55-23-pm-3.png){: width="550" height="437"}
-
-&nbsp;
 
 We went to wine tastings at two wineries, undoubtably two of the best. First we went to Vasse Felix which claims the title of oldest winery in the region. The cellar door feels classy and you can opt for a seated wine tasting which includes 7+ tastings. We all loved the Sparkling Blanc de Blanc and I regret not buying a bottle or two as they cannot be bought anywhere else\! Nikki was smart and stocked up\! Next we headed to Amelia Park Winery (before going to the restaurant for lunch). This cellar door takes the prize for most impressive with its moody wine barrel filled entry way leading up to its open and bright tasting area. I quite like their Trellis range which their entry level range of wines.&nbsp;
 
