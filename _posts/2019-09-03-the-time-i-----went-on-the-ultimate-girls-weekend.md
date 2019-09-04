@@ -72,7 +72,7 @@ What would a girls weekend be without a few fun activities? Holistic Hen based i
 
 First was the nude art class which we did after our wine tour so luckily our inhibitions were already lowered. If you have never sketched a naked man before, expect a very confident male subject who stands silently, fully naked, seemingly enjoying all eyes on his ding-dong. Helen was our teacher and she guided us through using charcoal to create shading and shadows and how to draw the human body in proportion. It was very amusing to show our drawings at the end, notably Nikki’s was missing his penis which Nikki explained she couldn’t look at it to draw it\!
 
-![](/uploads/binamaya19-66.jpg){: width="640" height="519"}
+![](/uploads/binamaya19-67.jpg){: width="550" height="446"}
 
 &nbsp;
 
